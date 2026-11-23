@@ -1,0 +1,1435 @@
+{
+  "data": [
+    {
+      "slug": "berlin",
+      "name_de": "Berlin",
+      "state": "BE",
+      "ags": "11000000",
+      "is_state_capital": true,
+      "qid": "Q64",
+      "osm_relation": 62422,
+      "geo": {
+        "lat": 52.52,
+        "lon": 13.405
+      },
+      "population": 3782202,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "hamburg",
+      "name_de": "Hamburg",
+      "state": "HH",
+      "ags": "02000000",
+      "is_state_capital": true,
+      "qid": "Q1055",
+      "osm_relation": 62782,
+      "geo": {
+        "lat": 53.5511,
+        "lon": 9.9937
+      },
+      "population": 1910160,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "muenchen",
+      "name_de": "M\u00fcnchen",
+      "state": "BY",
+      "ags": "09162000",
+      "is_state_capital": true,
+      "qid": "Q1726",
+      "osm_relation": 62428,
+      "geo": {
+        "lat": 48.1374,
+        "lon": 11.5755
+      },
+      "population": 1510378,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "koeln",
+      "name_de": "K\u00f6ln",
+      "state": "NW",
+      "ags": "05315000",
+      "is_state_capital": false,
+      "qid": "Q365",
+      "osm_relation": 62578,
+      "geo": {
+        "lat": 50.9375,
+        "lon": 6.9603
+      },
+      "population": 1087353,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "frankfurt-am-main",
+      "name_de": "Frankfurt am Main",
+      "state": "HE",
+      "ags": "06412000",
+      "is_state_capital": false,
+      "qid": "Q1794",
+      "osm_relation": 62400,
+      "geo": {
+        "lat": 50.1109,
+        "lon": 8.6821
+      },
+      "population": 775790,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "stuttgart",
+      "name_de": "Stuttgart",
+      "state": "BW",
+      "ags": "08111000",
+      "is_state_capital": true,
+      "qid": "Q1022",
+      "osm_relation": 2793104,
+      "geo": {
+        "lat": 48.7758,
+        "lon": 9.1829
+      },
+      "population": 633484,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "duesseldorf",
+      "name_de": "D\u00fcsseldorf",
+      "state": "NW",
+      "ags": "05111000",
+      "is_state_capital": true,
+      "qid": "Q1718",
+      "osm_relation": 62539,
+      "geo": {
+        "lat": 51.2277,
+        "lon": 6.7735
+      },
+      "population": 631217,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "leipzig",
+      "name_de": "Leipzig",
+      "state": "SN",
+      "ags": "14713000",
+      "is_state_capital": false,
+      "qid": "Q2079",
+      "osm_relation": 62649,
+      "geo": {
+        "lat": 51.3397,
+        "lon": 12.3731
+      },
+      "population": 619879,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "dortmund",
+      "name_de": "Dortmund",
+      "state": "NW",
+      "ags": "05913000",
+      "is_state_capital": false,
+      "qid": "Q1295",
+      "osm_relation": 1829065,
+      "geo": {
+        "lat": 51.5136,
+        "lon": 7.4653
+      },
+      "population": 595471,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "essen",
+      "name_de": "Essen",
+      "state": "NW",
+      "ags": "05113000",
+      "is_state_capital": false,
+      "qid": "Q2066",
+      "osm_relation": 62713,
+      "geo": {
+        "lat": 51.4556,
+        "lon": 7.0116
+      },
+      "population": 586608,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "bremen",
+      "name_de": "Bremen",
+      "state": "HB",
+      "ags": "04011000",
+      "is_state_capital": true,
+      "qid": "Q24879",
+      "osm_relation": 62559,
+      "geo": {
+        "lat": 53.0793,
+        "lon": 8.8017
+      },
+      "population": 577026,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "dresden",
+      "name_de": "Dresden",
+      "state": "SN",
+      "ags": "14612000",
+      "is_state_capital": true,
+      "qid": "Q1731",
+      "osm_relation": 191645,
+      "geo": {
+        "lat": 51.0504,
+        "lon": 13.7373
+      },
+      "population": 566222,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "hannover",
+      "name_de": "Hannover",
+      "state": "NI",
+      "ags": "03241001",
+      "is_state_capital": true,
+      "qid": "Q1715",
+      "osm_relation": 59418,
+      "geo": {
+        "lat": 52.3759,
+        "lon": 9.732
+      },
+      "population": 548186,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "nuernberg",
+      "name_de": "N\u00fcrnberg",
+      "state": "BY",
+      "ags": "09564000",
+      "is_state_capital": false,
+      "qid": "Q2090",
+      "osm_relation": 62780,
+      "geo": {
+        "lat": 49.4521,
+        "lon": 11.0767
+      },
+      "population": 526091,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "duisburg",
+      "name_de": "Duisburg",
+      "state": "NW",
+      "ags": "05112000",
+      "is_state_capital": false,
+      "qid": "Q2100",
+      "osm_relation": 62456,
+      "geo": {
+        "lat": 51.4344,
+        "lon": 6.7623
+      },
+      "population": 503707,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "bochum",
+      "name_de": "Bochum",
+      "state": "NW",
+      "ags": "05911000",
+      "is_state_capital": false,
+      "qid": "Q2103",
+      "osm_relation": 62644,
+      "geo": {
+        "lat": 51.4818,
+        "lon": 7.2162
+      },
+      "population": 366385,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "wuppertal",
+      "name_de": "Wuppertal",
+      "state": "NW",
+      "ags": "05124000",
+      "is_state_capital": false,
+      "qid": "Q2107",
+      "osm_relation": 62478,
+      "geo": {
+        "lat": 51.2562,
+        "lon": 7.1508
+      },
+      "population": 358938,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "bielefeld",
+      "name_de": "Bielefeld",
+      "state": "NW",
+      "ags": "05711000",
+      "is_state_capital": false,
+      "qid": "Q2112",
+      "osm_relation": 62646,
+      "geo": {
+        "lat": 52.0302,
+        "lon": 8.5325
+      },
+      "population": 338410,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "bonn",
+      "name_de": "Bonn",
+      "state": "NW",
+      "ags": "05314000",
+      "is_state_capital": false,
+      "qid": "Q586",
+      "osm_relation": 62508,
+      "geo": {
+        "lat": 50.7374,
+        "lon": 7.0982
+      },
+      "population": 335789,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "muenster",
+      "name_de": "M\u00fcnster",
+      "state": "NW",
+      "ags": "05515000",
+      "is_state_capital": false,
+      "qid": "Q2742",
+      "osm_relation": 62591,
+      "geo": {
+        "lat": 51.9607,
+        "lon": 7.6261
+      },
+      "population": 322904,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "wiesbaden",
+      "name_de": "Wiesbaden",
+      "state": "HE",
+      "ags": "06414000",
+      "is_state_capital": true,
+      "qid": "Q1721",
+      "osm_relation": 62496,
+      "geo": {
+        "lat": 50.0826,
+        "lon": 8.24
+      },
+      "population": 285522,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "kiel",
+      "name_de": "Kiel",
+      "state": "SH",
+      "ags": "01002000",
+      "is_state_capital": true,
+      "qid": "Q1707",
+      "osm_relation": 27021,
+      "geo": {
+        "lat": 54.3233,
+        "lon": 10.1228
+      },
+      "population": 248873,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "mainz",
+      "name_de": "Mainz",
+      "state": "RP",
+      "ags": "07315000",
+      "is_state_capital": true,
+      "qid": "Q1720",
+      "osm_relation": 62630,
+      "geo": {
+        "lat": 49.9929,
+        "lon": 8.2473
+      },
+      "population": 222889,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "magdeburg",
+      "name_de": "Magdeburg",
+      "state": "ST",
+      "ags": "15003000",
+      "is_state_capital": true,
+      "qid": "Q1733",
+      "osm_relation": 62481,
+      "geo": {
+        "lat": 52.1205,
+        "lon": 11.6276
+      },
+      "population": 240114,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "erfurt",
+      "name_de": "Erfurt",
+      "state": "TH",
+      "ags": "16051000",
+      "is_state_capital": true,
+      "qid": "Q1729",
+      "osm_relation": 62745,
+      "geo": {
+        "lat": 50.9787,
+        "lon": 11.0328
+      },
+      "population": 215199,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "potsdam",
+      "name_de": "Potsdam",
+      "state": "BB",
+      "ags": "12054000",
+      "is_state_capital": true,
+      "qid": "Q1711",
+      "osm_relation": 62369,
+      "geo": {
+        "lat": 52.3906,
+        "lon": 13.0645
+      },
+      "population": 187119,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "saarbruecken",
+      "name_de": "Saarbr\u00fccken",
+      "state": "SL",
+      "ags": "10041100",
+      "is_state_capital": true,
+      "qid": "Q1724",
+      "osm_relation": 1187159,
+      "geo": {
+        "lat": 49.2402,
+        "lon": 6.9969
+      },
+      "population": 183509,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "schwerin",
+      "name_de": "Schwerin",
+      "state": "MV",
+      "ags": "13004000",
+      "is_state_capital": true,
+      "qid": "Q1709",
+      "osm_relation": 62685,
+      "geo": {
+        "lat": 53.6355,
+        "lon": 11.4012
+      },
+      "population": 98733,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "full"
+    },
+    {
+      "slug": "aachen",
+      "name_de": "Aachen",
+      "state": "NW",
+      "ags": "05334002",
+      "is_state_capital": false,
+      "qid": "Q1017",
+      "osm_relation": 62564,
+      "geo": {
+        "lat": 50.7762,
+        "lon": 6.0838
+      },
+      "population": 252769,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "augsburg",
+      "name_de": "Augsburg",
+      "state": "BY",
+      "ags": "09761000",
+      "is_state_capital": false,
+      "qid": "Q2749",
+      "osm_relation": 62407,
+      "geo": {
+        "lat": 48.3689,
+        "lon": 10.8978
+      },
+      "population": 303150,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "bergisch-gladbach",
+      "name_de": "Bergisch Gladbach",
+      "state": "NW",
+      "ags": "05378004",
+      "is_state_capital": false,
+      "qid": "Q3117",
+      "osm_relation": 173103,
+      "geo": {
+        "lat": 50.9917,
+        "lon": 7.1367
+      },
+      "population": 112660,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "bottrop",
+      "name_de": "Bottrop",
+      "state": "NW",
+      "ags": "05512000",
+      "is_state_capital": false,
+      "qid": "Q3069",
+      "osm_relation": 62634,
+      "geo": {
+        "lat": 51.5232,
+        "lon": 6.9253
+      },
+      "population": 118705,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "braunschweig",
+      "name_de": "Braunschweig",
+      "state": "NI",
+      "ags": "03101000",
+      "is_state_capital": false,
+      "qid": "Q2773",
+      "osm_relation": 62531,
+      "geo": {
+        "lat": 52.2692,
+        "lon": 10.5211
+      },
+      "population": 252066,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "bremerhaven",
+      "name_de": "Bremerhaven",
+      "state": "HB",
+      "ags": "04012000",
+      "is_state_capital": false,
+      "qid": "Q2706",
+      "osm_relation": 62658,
+      "geo": {
+        "lat": 53.55,
+        "lon": 8.5833
+      },
+      "population": 114677,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "chemnitz",
+      "name_de": "Chemnitz",
+      "state": "SN",
+      "ags": "14511000",
+      "is_state_capital": false,
+      "qid": "Q2795",
+      "osm_relation": 62594,
+      "geo": {
+        "lat": 50.8333,
+        "lon": 12.9167
+      },
+      "population": 250681,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "cottbus",
+      "name_de": "Cottbus",
+      "state": "BB",
+      "ags": "12052000",
+      "is_state_capital": false,
+      "qid": "Q3214",
+      "osm_relation": 62430,
+      "geo": {
+        "lat": 51.7608,
+        "lon": 14.3319
+      },
+      "population": 100010,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "darmstadt",
+      "name_de": "Darmstadt",
+      "state": "HE",
+      "ags": "06411000",
+      "is_state_capital": false,
+      "qid": "Q2973",
+      "osm_relation": 62581,
+      "geo": {
+        "lat": 49.8667,
+        "lon": 8.65
+      },
+      "population": 164792,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "erlangen",
+      "name_de": "Erlangen",
+      "state": "BY",
+      "ags": "09562000",
+      "is_state_capital": false,
+      "qid": "Q3126",
+      "osm_relation": 62403,
+      "geo": {
+        "lat": 49.5925,
+        "lon": 11.005
+      },
+      "population": 117806,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "freiburg-im-breisgau",
+      "name_de": "Freiburg im Breisgau",
+      "state": "BW",
+      "ags": "08311000",
+      "is_state_capital": false,
+      "qid": "Q2833",
+      "osm_relation": 62768,
+      "geo": {
+        "lat": 47.995,
+        "lon": 7.85
+      },
+      "population": 237244,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "fuerth",
+      "name_de": "F\u00fcrth",
+      "state": "BY",
+      "ags": "09563000",
+      "is_state_capital": false,
+      "qid": "Q3075",
+      "osm_relation": 62374,
+      "geo": {
+        "lat": 49.4783,
+        "lon": 10.9903
+      },
+      "population": 132032,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "gelsenkirchen",
+      "name_de": "Gelsenkirchen",
+      "state": "NW",
+      "ags": "05513000",
+      "is_state_capital": false,
+      "qid": "Q2765",
+      "osm_relation": 62522,
+      "geo": {
+        "lat": 51.5103,
+        "lon": 7.0942
+      },
+      "population": 265885,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "goettingen",
+      "name_de": "G\u00f6ttingen",
+      "state": "NI",
+      "ags": "03159016",
+      "is_state_capital": true,
+      "qid": "Q3033",
+      "osm_relation": 191361,
+      "geo": {
+        "lat": 51.5339,
+        "lon": 9.9356
+      },
+      "population": 120261,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "guetersloh",
+      "name_de": "G\u00fctersloh",
+      "state": "NW",
+      "ags": "05754008",
+      "is_state_capital": false,
+      "qid": "Q3771",
+      "osm_relation": 138119,
+      "geo": {
+        "lat": 51.9,
+        "lon": 8.3833
+      },
+      "population": 102464,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "hagen",
+      "name_de": "Hagen",
+      "state": "NW",
+      "ags": "05914000",
+      "is_state_capital": false,
+      "qid": "Q2871",
+      "osm_relation": 1800297,
+      "geo": {
+        "lat": 51.3594,
+        "lon": 7.475
+      },
+      "population": 190490,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "halle-saale",
+      "name_de": "Halle (Saale)",
+      "state": "ST",
+      "ags": "15002000",
+      "is_state_capital": false,
+      "qid": "Q2814",
+      "osm_relation": 62638,
+      "geo": {
+        "lat": 51.4828,
+        "lon": 11.9697
+      },
+      "population": 242172,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "hamm",
+      "name_de": "Hamm",
+      "state": "NW",
+      "ags": "05915000",
+      "is_state_capital": false,
+      "qid": "Q2880",
+      "osm_relation": 62499,
+      "geo": {
+        "lat": 51.6814,
+        "lon": 7.8192
+      },
+      "population": 180761,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "hanau",
+      "name_de": "Hanau",
+      "state": "HE",
+      "ags": "06435014",
+      "is_state_capital": false,
+      "qid": "Q3802",
+      "osm_relation": 535895,
+      "geo": {
+        "lat": 50.1328,
+        "lon": 8.9169
+      },
+      "population": 103184,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "heidelberg",
+      "name_de": "Heidelberg",
+      "state": "BW",
+      "ags": "08221000",
+      "is_state_capital": false,
+      "qid": "Q2966",
+      "osm_relation": 285864,
+      "geo": {
+        "lat": 49.4122,
+        "lon": 8.71
+      },
+      "population": 162960,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "heilbronn",
+      "name_de": "Heilbronn",
+      "state": "BW",
+      "ags": "08121000",
+      "is_state_capital": false,
+      "qid": "Q715",
+      "osm_relation": 62751,
+      "geo": {
+        "lat": 49.1404,
+        "lon": 9.218
+      },
+      "population": 130093,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "herne",
+      "name_de": "Herne",
+      "state": "NW",
+      "ags": "05916000",
+      "is_state_capital": false,
+      "qid": "Q2904",
+      "osm_relation": 62396,
+      "geo": {
+        "lat": 51.5426,
+        "lon": 7.219
+      },
+      "population": 157896,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "hildesheim",
+      "name_de": "Hildesheim",
+      "state": "NI",
+      "ags": "03254021",
+      "is_state_capital": false,
+      "qid": "Q3185",
+      "osm_relation": 1176503,
+      "geo": {
+        "lat": 52.15,
+        "lon": 9.95
+      },
+      "population": 102325,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "ingolstadt",
+      "name_de": "Ingolstadt",
+      "state": "BY",
+      "ags": "09161000",
+      "is_state_capital": false,
+      "qid": "Q3004",
+      "osm_relation": 62381,
+      "geo": {
+        "lat": 48.7631,
+        "lon": 11.425
+      },
+      "population": 142308,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "jena",
+      "name_de": "Jena",
+      "state": "TH",
+      "ags": "16053000",
+      "is_state_capital": false,
+      "qid": "Q3150",
+      "osm_relation": 62693,
+      "geo": {
+        "lat": 50.9272,
+        "lon": 11.5864
+      },
+      "population": 109353,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "kaiserslautern",
+      "name_de": "Kaiserslautern",
+      "state": "RP",
+      "ags": "07312000",
+      "is_state_capital": false,
+      "qid": "Q3758",
+      "osm_relation": 62652,
+      "geo": {
+        "lat": 49.4447,
+        "lon": 7.7689
+      },
+      "population": 101486,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "karlsruhe",
+      "name_de": "Karlsruhe",
+      "state": "BW",
+      "ags": "08212000",
+      "is_state_capital": false,
+      "qid": "Q1040",
+      "osm_relation": 62518,
+      "geo": {
+        "lat": 49.0167,
+        "lon": 8.4
+      },
+      "population": 309964,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "kassel",
+      "name_de": "Kassel",
+      "state": "HE",
+      "ags": "06611000",
+      "is_state_capital": false,
+      "qid": "Q2865",
+      "osm_relation": 62598,
+      "geo": {
+        "lat": 51.3158,
+        "lon": 9.4979
+      },
+      "population": 204687,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "koblenz",
+      "name_de": "Koblenz",
+      "state": "RP",
+      "ags": "07111000",
+      "is_state_capital": false,
+      "qid": "Q3104",
+      "osm_relation": 62512,
+      "geo": {
+        "lat": 50.3597,
+        "lon": 7.5978
+      },
+      "population": 115298,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "krefeld",
+      "name_de": "Krefeld",
+      "state": "NW",
+      "ags": "05114000",
+      "is_state_capital": false,
+      "qid": "Q2805",
+      "osm_relation": 62748,
+      "geo": {
+        "lat": 51.3333,
+        "lon": 6.5667
+      },
+      "population": 228550,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "leverkusen",
+      "name_de": "Leverkusen",
+      "state": "NW",
+      "ags": "05316000",
+      "is_state_capital": false,
+      "qid": "Q2938",
+      "osm_relation": 62449,
+      "geo": {
+        "lat": 51.0333,
+        "lon": 6.9833
+      },
+      "population": 175300,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "ludwigshafen-am-rhein",
+      "name_de": "Ludwigshafen am Rhein",
+      "state": "RP",
+      "ags": "07314000",
+      "is_state_capital": false,
+      "qid": "Q2910",
+      "osm_relation": 62347,
+      "geo": {
+        "lat": 49.4811,
+        "lon": 8.4353
+      },
+      "population": 176110,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "luebeck",
+      "name_de": "L\u00fcbeck",
+      "state": "SH",
+      "ags": "01003000",
+      "is_state_capital": false,
+      "qid": "Q2843",
+      "osm_relation": 27027,
+      "geo": {
+        "lat": 53.8697,
+        "lon": 10.6864
+      },
+      "population": 219044,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "mannheim",
+      "name_de": "Mannheim",
+      "state": "BW",
+      "ags": "08222000",
+      "is_state_capital": false,
+      "qid": "Q2119",
+      "osm_relation": 62691,
+      "geo": {
+        "lat": 49.4878,
+        "lon": 8.4661
+      },
+      "population": 316877,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "moenchengladbach",
+      "name_de": "M\u00f6nchengladbach",
+      "state": "NW",
+      "ags": "05116000",
+      "is_state_capital": false,
+      "qid": "Q2758",
+      "osm_relation": 62410,
+      "geo": {
+        "lat": 51.2,
+        "lon": 6.4333
+      },
+      "population": 268943,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "moers",
+      "name_de": "Moers",
+      "state": "NW",
+      "ags": "05170024",
+      "is_state_capital": false,
+      "qid": "Q3132",
+      "osm_relation": 58623,
+      "geo": {
+        "lat": 51.4592,
+        "lon": 6.6197
+      },
+      "population": 105606,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "muelheim-an-der-ruhr",
+      "name_de": "M\u00fclheim an der Ruhr",
+      "state": "NW",
+      "ags": "05117000",
+      "is_state_capital": false,
+      "qid": "Q2899",
+      "osm_relation": 62385,
+      "geo": {
+        "lat": 51.4275,
+        "lon": 6.8825
+      },
+      "population": 173255,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "neuss",
+      "name_de": "Neuss",
+      "state": "NW",
+      "ags": "05162024",
+      "is_state_capital": false,
+      "qid": "Q2948",
+      "osm_relation": 163307,
+      "geo": {
+        "lat": 51.2003,
+        "lon": 6.6939
+      },
+      "population": 155163,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "oberhausen",
+      "name_de": "Oberhausen",
+      "state": "NW",
+      "ags": "05119000",
+      "is_state_capital": false,
+      "qid": "Q2838",
+      "osm_relation": 62734,
+      "geo": {
+        "lat": 51.4699,
+        "lon": 6.8514
+      },
+      "population": 211099,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "offenbach-am-main",
+      "name_de": "Offenbach am Main",
+      "state": "HE",
+      "ags": "06413000",
+      "is_state_capital": false,
+      "qid": "Q3042",
+      "osm_relation": 62695,
+      "geo": {
+        "lat": 50.1,
+        "lon": 8.7667
+      },
+      "population": 135490,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "oldenburg",
+      "name_de": "Oldenburg",
+      "state": "NI",
+      "ags": "03403000",
+      "is_state_capital": false,
+      "qid": "Q2936",
+      "osm_relation": 62409,
+      "geo": {
+        "lat": 53.1439,
+        "lon": 8.2139
+      },
+      "population": 174629,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "osnabrueck",
+      "name_de": "Osnabr\u00fcck",
+      "state": "NI",
+      "ags": "03404000",
+      "is_state_capital": false,
+      "qid": "Q2916",
+      "osm_relation": 62631,
+      "geo": {
+        "lat": 52.2789,
+        "lon": 8.0431
+      },
+      "population": 166960,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "paderborn",
+      "name_de": "Paderborn",
+      "state": "NW",
+      "ags": "05774032",
+      "is_state_capital": false,
+      "qid": "Q2971",
+      "osm_relation": 148074,
+      "geo": {
+        "lat": 51.7167,
+        "lon": 8.7667
+      },
+      "population": 155749,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "pforzheim",
+      "name_de": "Pforzheim",
+      "state": "BW",
+      "ags": "08231000",
+      "is_state_capital": false,
+      "qid": "Q3046",
+      "osm_relation": 62471,
+      "geo": {
+        "lat": 48.8909,
+        "lon": 8.703
+      },
+      "population": 128992,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "recklinghausen",
+      "name_de": "Recklinghausen",
+      "state": "NW",
+      "ags": "05562032",
+      "is_state_capital": false,
+      "qid": "Q3050",
+      "osm_relation": 56665,
+      "geo": {
+        "lat": 51.6167,
+        "lon": 7.2
+      },
+      "population": 111693,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "regensburg",
+      "name_de": "Regensburg",
+      "state": "BY",
+      "ags": "09362000",
+      "is_state_capital": false,
+      "qid": "Q2978",
+      "osm_relation": 62411,
+      "geo": {
+        "lat": 49.0167,
+        "lon": 12.0833
+      },
+      "population": 159465,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "remscheid",
+      "name_de": "Remscheid",
+      "state": "NW",
+      "ags": "05120000",
+      "is_state_capital": false,
+      "qid": "Q3097",
+      "osm_relation": 62455,
+      "geo": {
+        "lat": 51.1799,
+        "lon": 7.1944
+      },
+      "population": 112970,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "reutlingen",
+      "name_de": "Reutlingen",
+      "state": "BW",
+      "ags": "08415061",
+      "is_state_capital": false,
+      "qid": "Q3085",
+      "osm_relation": 2772661,
+      "geo": {
+        "lat": 48.4833,
+        "lon": 9.2167
+      },
+      "population": 118528,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "rostock",
+      "name_de": "Rostock",
+      "state": "MV",
+      "ags": "13003000",
+      "is_state_capital": false,
+      "qid": "Q2861",
+      "osm_relation": 62405,
+      "geo": {
+        "lat": 54.0833,
+        "lon": 12.1333
+      },
+      "population": 210795,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "salzgitter",
+      "name_de": "Salzgitter",
+      "state": "NI",
+      "ags": "03102000",
+      "is_state_capital": false,
+      "qid": "Q3200",
+      "osm_relation": 62659,
+      "geo": {
+        "lat": 52.1503,
+        "lon": 10.3593
+      },
+      "population": 105039,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "siegen",
+      "name_de": "Siegen",
+      "state": "NW",
+      "ags": "05970040",
+      "is_state_capital": false,
+      "qid": "Q3167",
+      "osm_relation": 163256,
+      "geo": {
+        "lat": 50.8756,
+        "lon": 8.0167
+      },
+      "population": 102114,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "solingen",
+      "name_de": "Solingen",
+      "state": "NW",
+      "ags": "05122000",
+      "is_state_capital": false,
+      "qid": "Q2942",
+      "osm_relation": 62699,
+      "geo": {
+        "lat": 51.1719,
+        "lon": 7.0847
+      },
+      "population": 161545,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "trier",
+      "name_de": "Trier",
+      "state": "RP",
+      "ags": "07211000",
+      "is_state_capital": false,
+      "qid": "Q3138",
+      "osm_relation": 172679,
+      "geo": {
+        "lat": 49.7557,
+        "lon": 6.6394
+      },
+      "population": 112737,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "ulm",
+      "name_de": "Ulm",
+      "state": "BW",
+      "ags": "08421000",
+      "is_state_capital": false,
+      "qid": "Q3012",
+      "osm_relation": 62495,
+      "geo": {
+        "lat": 48.3986,
+        "lon": 9.9911
+      },
+      "population": 129942,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "wolfsburg",
+      "name_de": "Wolfsburg",
+      "state": "NI",
+      "ags": "03103000",
+      "is_state_capital": false,
+      "qid": "Q3014",
+      "osm_relation": 62418,
+      "geo": {
+        "lat": 52.4231,
+        "lon": 10.7872
+      },
+      "population": 127256,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    },
+    {
+      "slug": "wuerzburg",
+      "name_de": "W\u00fcrzburg",
+      "state": "BY",
+      "ags": "09663000",
+      "is_state_capital": false,
+      "qid": "Q2999",
+      "osm_relation": 62464,
+      "geo": {
+        "lat": 49.7944,
+        "lon": 9.9294
+      },
+      "population": 132215,
+      "dwd_station_ids": [],
+      "gtfs_stop_ref": null,
+      "coverage": "auto"
+    }
+  ],
+  "meta": {
+    "correlation_id": "7c8974cfc5eb4d4394d1f4c68e6a57e7"
+  }
+}

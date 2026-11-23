@@ -1,0 +1,2606 @@
+[
+  {
+    "data": {
+      "city_slug": "berlin",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T09:30:59.092472Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "11000000",
+      "wikidata_qid": "Q64",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 2092,
+        "other_debtor_insolvencies": 4551,
+        "year": 2024
+      },
+      "content_hash": "eecb79b57e0e07df0fb50e6652ae178f18f3dcc05235714d11d6df179fef8a9f",
+      "record_id": "1541fa2613eaf2a6dbb948dc424a3f6c3250c82baca62de17f554f33597c8dbe"
+    },
+    "meta": {
+      "correlation_id": "b4021380aed246778760c874b8a08117",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "hamburg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:35.630879Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "02000000",
+      "wikidata_qid": "Q1055",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 849,
+        "other_debtor_insolvencies": 3209,
+        "year": 2024
+      },
+      "content_hash": "ff56254e0c527d038a66c9af20f74993df8ee0c278fc81a14fd2794a159c168c",
+      "record_id": "d7468190f74ec5377123cd2539951e4b204db1e008a6c18b7eb711f1d92cfd4c"
+    },
+    "meta": {
+      "correlation_id": "1f9314d319714cf6a58b7a137cd63fcf",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "muenchen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:35.925196Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "09162000",
+      "wikidata_qid": "Q1726",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 497,
+        "other_debtor_insolvencies": 1371,
+        "year": 2024
+      },
+      "content_hash": "a3f1eec734a39019622fc66d5f52a9e65f29dc7fe6f86bc82ea40f3abbe123a8",
+      "record_id": "d74790d6723ddf1a624e421830b7608be38f7a7726183766a8449b6a920776c8"
+    },
+    "meta": {
+      "correlation_id": "9892a0fbf12049fc9297caf6c3a909c9",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "koeln",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:36.311757Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05315000",
+      "wikidata_qid": "Q365",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 427,
+        "other_debtor_insolvencies": 1612,
+        "year": 2024
+      },
+      "content_hash": "6272672a249cb22d87334bd06ad3055650e8f7708f7fdfb320f378d1167f7ca7",
+      "record_id": "82ee03f8d892240c4cd5e9dd8c2a2d6690ab14dabbeecd1d591f0adecbe99f5d"
+    },
+    "meta": {
+      "correlation_id": "13c835d28280444d98d078a1f6f0d9a2",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "frankfurt-am-main",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:36.547961Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "06412000",
+      "wikidata_qid": "Q1794",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 365,
+        "other_debtor_insolvencies": 1014,
+        "year": 2024
+      },
+      "content_hash": "3b2d5a1c7c70639c1bc0b659f3122c5a9369bd5c9678c8aff3e4ec69caa36f23",
+      "record_id": "7d48410f459fea5627b3387d130ccc4b0e813fcf349a2319b88e406701a280b4"
+    },
+    "meta": {
+      "correlation_id": "5841dc5cc43a487e809d330cf933e6e8",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "stuttgart",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:36.750941Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "08111000",
+      "wikidata_qid": "Q1022",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 148,
+        "other_debtor_insolvencies": 581,
+        "year": 2024
+      },
+      "content_hash": "d53ae909660d964f9c7eb22eb516b8f57db32a429c270cb038dc7e75b9847380",
+      "record_id": "5602eb3f482ed0c448ada424dbf21bf5154727d0caa00d97b2cf9a291d8c4036"
+    },
+    "meta": {
+      "correlation_id": "043a93fcc88f4e6cb337e8574e9778db",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "duesseldorf",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:36.975725Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05111000",
+      "wikidata_qid": "Q1718",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 355,
+        "other_debtor_insolvencies": 731,
+        "year": 2024
+      },
+      "content_hash": "6f0c5a09e2b25995cc0989073dd1b0208b49ee0a5c016ef1a03dc87b3809be31",
+      "record_id": "e756a0717c901fe7c40d47a38c26e183c7d92f9e0713b3dd3a21e9439d0f4910"
+    },
+    "meta": {
+      "correlation_id": "98ceeea993394d8fa72ae26a9b579385",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "leipzig",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:37.154071Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "14713000",
+      "wikidata_qid": "Q2079",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 196,
+        "other_debtor_insolvencies": 1164,
+        "year": 2024
+      },
+      "content_hash": "6c1c415f1d5561fa0874082427a2db7d87b69c1a7dbb68a3486aa5526bd8cdd4",
+      "record_id": "02ccf11ec047e664d19d06fe771ca3711b46655b5fb63dcbb829c97fb72c15e8"
+    },
+    "meta": {
+      "correlation_id": "a06084ea48f04ac480ee99d3162b7f66",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "dortmund",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:37.461692Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05913000",
+      "wikidata_qid": "Q1295",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 173,
+        "other_debtor_insolvencies": 897,
+        "year": 2024
+      },
+      "content_hash": "b7b5c5f99e1cd213bb32bb4f39ae6e220c38ae7b923bb91bc003a5d16b178a49",
+      "record_id": "6a99660d55f8445c3842b3923f7b34d7b76837c21869606aa60a69b4c7339b10"
+    },
+    "meta": {
+      "correlation_id": "76795d69a6b340749075d026cbc23e7c",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "essen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:37.801270Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05113000",
+      "wikidata_qid": "Q2066",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 256,
+        "other_debtor_insolvencies": 886,
+        "year": 2024
+      },
+      "content_hash": "15808b50e9012b8e267a1a80ae3fa8539ba8fdcdfb908717b727d6d87904337f",
+      "record_id": "24ca15209e6cf309a8dbba03d3c991810dcdc76f27f93887c1475cc0400c67e9"
+    },
+    "meta": {
+      "correlation_id": "2aa5ee11c530419f979ddb8365d09ef1",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "bremen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:37.999008Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "04011000",
+      "wikidata_qid": "Q24879",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 146,
+        "other_debtor_insolvencies": 1123,
+        "year": 2024
+      },
+      "content_hash": "6bba5fc84454fffccca78f7d0b7e1e45c17e49f0cf36757c2f9724b4976fd3ee",
+      "record_id": "136463c3c83c4cf2cf041dec03f8f3bb42a4bcb64a94bde3c67c9319f884b28d"
+    },
+    "meta": {
+      "correlation_id": "be34b601f55f4b209e9f646438465dc4",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "dresden",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:38.180023Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "14612000",
+      "wikidata_qid": "Q1731",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 173,
+        "other_debtor_insolvencies": 543,
+        "year": 2024
+      },
+      "content_hash": "89954ec7be1592a7ae9f6afb078c19150d22c8fbd669aa5511b070067d8c4927",
+      "record_id": "803ff72f4dba00e15a4f4289bf5d623bc1a35a408fa3ad0e09e9eb89ac64d07e"
+    },
+    "meta": {
+      "correlation_id": "861d87538d6044f6a5f1e4992c469878",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "hannover",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:38.435736Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "03241001",
+      "wikidata_qid": "Q1715",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 291,
+        "other_debtor_insolvencies": 1847,
+        "year": 2024
+      },
+      "content_hash": "1abdcdffe00f2f5ace9c5d1d9fa3972ac897f8d33e7f627b3794906d7da2d3c2",
+      "record_id": "9254aba845b88155058218565dd89554b037bca09893d567c72d2a1aa120f47f"
+    },
+    "meta": {
+      "correlation_id": "e0ad203219744997a5b4f89e8caed442",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "nuernberg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:38.737410Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "09564000",
+      "wikidata_qid": "Q2090",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 251,
+        "other_debtor_insolvencies": 776,
+        "year": 2024
+      },
+      "content_hash": "60012c2c8cb94e013faae6cef3647ede871b45820131c4e35fc4c35db40d3f8a",
+      "record_id": "14e5a221a47ab01de6f92b715a5e7334d85ec801b9c95ade835a649c16298df6"
+    },
+    "meta": {
+      "correlation_id": "7124ff5daf84487f9a64eddb29f1f3b8",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "duisburg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:38.914348Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05112000",
+      "wikidata_qid": "Q2100",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 139,
+        "other_debtor_insolvencies": 721,
+        "year": 2024
+      },
+      "content_hash": "4b2d185ecf9b4a4511e5caacc84661594dd9b316675a84c65c1bbd0acd8454ec",
+      "record_id": "6d4088dce837b9776e9bff6d109e49050511af1a65db580411a6a8425270d773"
+    },
+    "meta": {
+      "correlation_id": "07ea7724446f48ae9466f8cc6422c7d9",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "bochum",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:39.090972Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05911000",
+      "wikidata_qid": "Q2103",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 142,
+        "other_debtor_insolvencies": 548,
+        "year": 2024
+      },
+      "content_hash": "47d59b1795740b97ab59fc06e64c4f7eaa97b8854558cde5cad73bd77de74ac7",
+      "record_id": "e885f0b03801bf5ff06732759a855aa8fc2a09b686e779b2bde40a9b517635e2"
+    },
+    "meta": {
+      "correlation_id": "433723e46e744820ab0d44b1af65f7cc",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "wuppertal",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:39.380052Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05124000",
+      "wikidata_qid": "Q2107",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 128,
+        "other_debtor_insolvencies": 672,
+        "year": 2024
+      },
+      "content_hash": "affba466ee1878d7f00fb632fb447c794fedc2eca7e0187af82305774f138726",
+      "record_id": "1f1890532573d2ebfd0e8c13215128172b55e6dcc72a8b64b5a6310d950d51c3"
+    },
+    "meta": {
+      "correlation_id": "ca9065097592492eaa4466279efcdace",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "bielefeld",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:39.633701Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05711000",
+      "wikidata_qid": "Q2112",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 101,
+        "other_debtor_insolvencies": 399,
+        "year": 2024
+      },
+      "content_hash": "58ac47408d5e9e2c5598d16d08a7327723eca9c6280812ac956919d29745e47d",
+      "record_id": "03566882ab3816a6cf3e73e7839f0006ca6a89e04f669b3ae52b2ebcf8275810"
+    },
+    "meta": {
+      "correlation_id": "bb42fa6a2037458cb6ba04ac1ed16b31",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "bonn",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:39.820036Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05314000",
+      "wikidata_qid": "Q586",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 110,
+        "other_debtor_insolvencies": 257,
+        "year": 2024
+      },
+      "content_hash": "739cbb62b887d667a676f512a8ad4b63a459a19b3647e5ea9af368090e4da15b",
+      "record_id": "a8a069c7e8e96ed8e3b05e15286b47f327541e4966cde13535e0286289bb7e71"
+    },
+    "meta": {
+      "correlation_id": "9db82ce370484ed49419581471ecbaea",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "muenster",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:40.048272Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05515000",
+      "wikidata_qid": "Q2742",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 106,
+        "other_debtor_insolvencies": 233,
+        "year": 2024
+      },
+      "content_hash": "c365b865fb0eced6235e824f250f7049806e7d3cc3f1ab280ec2948bc82761f4",
+      "record_id": "c7fc085ee6ce67283a6b6fc4b351fa75a5f0ebbf94eb2bfc92a51c38eeff735e"
+    },
+    "meta": {
+      "correlation_id": "9291ad26c6fc47768905d9c85be6560a",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "wiesbaden",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:40.234923Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "06414000",
+      "wikidata_qid": "Q1721",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 101,
+        "other_debtor_insolvencies": 457,
+        "year": 2024
+      },
+      "content_hash": "62e6cfbdc1a1cfd79d051a7fb2d6ba1ebb192e1f96883c3885bea751beb58e89",
+      "record_id": "3dffc137cdf59a3ba687e8c4e65ae1831abba78e29098fefbbecfa7dea2f0a3a"
+    },
+    "meta": {
+      "correlation_id": "abd08215016b47108dcb896660875e13",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "kiel",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:40.463758Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "01002000",
+      "wikidata_qid": "Q1707",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 49,
+        "other_debtor_insolvencies": 361,
+        "year": 2024
+      },
+      "content_hash": "8168b63d885353f1272d2d3cdb328e9b4b4f3c489569ce780231198f4d94eec5",
+      "record_id": "d31b85050ca80e52e8c8757121692cd6906fb0acb94e24f7734c2fe977cf5562"
+    },
+    "meta": {
+      "correlation_id": "596a4ceeb35a456abcc083f7c370a4f4",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "mainz",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:40.662795Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "07315000",
+      "wikidata_qid": "Q1720",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 48,
+        "other_debtor_insolvencies": 202,
+        "year": 2024
+      },
+      "content_hash": "ec9c745a7d4bc1900a825806ae2bf4d2bb0a489700f460e89488d29de3869deb",
+      "record_id": "198309ffa822c88263959b05b903d7ecd7ffbf92e074fbda02b2d628137a5265"
+    },
+    "meta": {
+      "correlation_id": "86f400c3353d4ae69e21ddd4aa0c34e0",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "magdeburg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T13:23:35.624010Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "15003000",
+      "wikidata_qid": "Q1733",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 47,
+        "other_debtor_insolvencies": 330,
+        "year": 2024
+      },
+      "content_hash": "0ba982fd5514d3add6602527211a9a741d6296e64782d29d123074a201ad65fc",
+      "record_id": "b2e9a7025d18977a817857930f9f513ec92720c5dc60ea4a918bc6f968a3b988"
+    },
+    "meta": {
+      "correlation_id": "3d25ebafbdfc4e74bbeb0b81100b9f79",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "erfurt",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:41.057865Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "16051000",
+      "wikidata_qid": "Q1729",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 24,
+        "other_debtor_insolvencies": 265,
+        "year": 2024
+      },
+      "content_hash": "edc5e33fb5d4c29a8f7bbcc772874768137067a162afcbcce59025ddbf66e2d0",
+      "record_id": "b92d0165d839729b970cd07f2e71236ed8582b1fe131295e8c1a8c30fa8d788a"
+    },
+    "meta": {
+      "correlation_id": "a1c4c86a1ea042b1858d677812526a2f",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "potsdam",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:41.264099Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "12054000",
+      "wikidata_qid": "Q1711",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 45,
+        "other_debtor_insolvencies": 243,
+        "year": 2024
+      },
+      "content_hash": "c40a1d12abc383bed0aabafad5e5a19f5dbc8c25d5be446cede89d1f142ef7a7",
+      "record_id": "850543fee87c99b779228d8b0db5b49ad806b0a7d5fa3a70df6d3cdbc91bf9e2"
+    },
+    "meta": {
+      "correlation_id": "54428e24519d4f498f59b54258f5e3f2",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "saarbruecken",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:41.450877Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "10041100",
+      "wikidata_qid": "Q1724",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 97,
+        "other_debtor_insolvencies": 527,
+        "year": 2024
+      },
+      "content_hash": "2611503a2407de8dc0948e279f34c20faad1f5bd0723a3c52a2f2d113576187a",
+      "record_id": "5283eb4f78755405ed6dbb9e3d92e96854564cc6feadbdd1dc78ced6426d3107"
+    },
+    "meta": {
+      "correlation_id": "9b3dab3ed8ff4b5283ffaa5580bb83d2",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "schwerin",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:41.760769Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "13004000",
+      "wikidata_qid": "Q1709",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 10,
+        "other_debtor_insolvencies": 201,
+        "year": 2024
+      },
+      "content_hash": "246d2a2963f35acf091281271da2be24e41a77c6b16ab990ed4383132c75f646",
+      "record_id": "3ef8d11dd2770892be1e69f4d6aa7ffba063788f822fdf8d7405acda3efd7ed6"
+    },
+    "meta": {
+      "correlation_id": "013e31b1282d403da276451a9d7608b6",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "aachen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:42.010619Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05334002",
+      "wikidata_qid": "Q1017",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 137,
+        "other_debtor_insolvencies": 891,
+        "year": 2024
+      },
+      "content_hash": "bfe04d459887d5d1220447417cbb6578993e2534dcd099c92c88c20be02ad2ad",
+      "record_id": "b37aec8accb432336eb2437030e991888cf3df5695ab4a1172f653303f5b0154"
+    },
+    "meta": {
+      "correlation_id": "1802f42ae82543a39c8db786f4fb6731",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "augsburg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:42.180621Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "09761000",
+      "wikidata_qid": "Q2749",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 101,
+        "other_debtor_insolvencies": 391,
+        "year": 2024
+      },
+      "content_hash": "6900c98711840c124a40504f9527b68f71c5c017d4c391e6d611c99205c29fdd",
+      "record_id": "7d66945326eee823e75aa711cdf6d373a1ed87c73fb2373c32341537b567254e"
+    },
+    "meta": {
+      "correlation_id": "77e2d2840e99420e91d439f5052ebf1c",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "bergisch-gladbach",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:42.419344Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05378004",
+      "wikidata_qid": "Q3117",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 65,
+        "other_debtor_insolvencies": 273,
+        "year": 2024
+      },
+      "content_hash": "43cd46b1f92a219f299c0b4a0fcec8c8b2f56da4e938b5fd8e3b34582e7be346",
+      "record_id": "9fa498eaf1a860bc903598de4bd18e925d57da4a26db340a844414abe3a8da76"
+    },
+    "meta": {
+      "correlation_id": "191204819e85468b9fc02ef653188902",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "bottrop",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:42.606667Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05512000",
+      "wikidata_qid": "Q3069",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 35,
+        "other_debtor_insolvencies": 172,
+        "year": 2024
+      },
+      "content_hash": "c54fa08a031298cf026fe06b7fd6e499a52f562f0e4509781a1aacd2e939e096",
+      "record_id": "3459d63c28ca28bb51425347d4f90c7e378d4d8feae2a2dfe0984ab168393741"
+    },
+    "meta": {
+      "correlation_id": "1af8c16f300148aa9644b108c9aab24f",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "braunschweig",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:42.826437Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "03101000",
+      "wikidata_qid": "Q2773",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 56,
+        "other_debtor_insolvencies": 407,
+        "year": 2024
+      },
+      "content_hash": "b2dc1a114acb0350e828b1efa5a4a349df036e2f4426c606d360d1725402ccf1",
+      "record_id": "0d2e6b8a6364f82da7f8e5881f78df3b3e912248ff801e7206518fd6c1257eca"
+    },
+    "meta": {
+      "correlation_id": "3f61b478e508447297e2bfbd78928664",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "bremerhaven",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:43.002548Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "04012000",
+      "wikidata_qid": "Q2706",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 32,
+        "other_debtor_insolvencies": 367,
+        "year": 2024
+      },
+      "content_hash": "d6d73703201e4202e37ad0264ccc349966f1b29c2b97d33db6484860432002e7",
+      "record_id": "d23cf9df458a530fb5eafee135af8143e61ea4ac8f74e5e56c18909aa2f2515a"
+    },
+    "meta": {
+      "correlation_id": "667a8e9e290b4537bd1527aff2b68783",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "chemnitz",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:43.200111Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "14511000",
+      "wikidata_qid": "Q2795",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 60,
+        "other_debtor_insolvencies": 532,
+        "year": 2024
+      },
+      "content_hash": "6dfebdd832297bfccd7e54952e9140898d2b8832bb3a846462099cf97c674afc",
+      "record_id": "639cbedd2d260a02cec3ab60b81e38dcb0820060add5b0631af92fe030bba33d"
+    },
+    "meta": {
+      "correlation_id": "cf601ecf90c841ee93e6715e94464b96",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "cottbus",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:43.484988Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "12052000",
+      "wikidata_qid": "Q3214",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 13,
+        "other_debtor_insolvencies": 219,
+        "year": 2024
+      },
+      "content_hash": "d4149541a8fec3b49bd57f20bea8a64624b09e42e8899946fc3289939876ebb0",
+      "record_id": "8b0dd2ce6c23ee00b74b864b4e446a8906e211930f352efc6c7a56c835eda6ca"
+    },
+    "meta": {
+      "correlation_id": "d33234ba5fa14ab1b97b6fc7b872e8c5",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "darmstadt",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:43.633788Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "06411000",
+      "wikidata_qid": "Q2973",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 37,
+        "other_debtor_insolvencies": 160,
+        "year": 2024
+      },
+      "content_hash": "e8934fb4636736fad9d44a33648970ae06b9af86a720df02bf347ded951450e1",
+      "record_id": "e8cc8b5212805eedd8efa197907d85e6daabf4216ad84ff0a9ba236467474878"
+    },
+    "meta": {
+      "correlation_id": "82dd7602237040f2942e0d0fa7aa30cc",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "erlangen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:43.830340Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "09562000",
+      "wikidata_qid": "Q3126",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 18,
+        "other_debtor_insolvencies": 88,
+        "year": 2024
+      },
+      "content_hash": "782d6b78884cdb8c5b7f90aabe44f32c6c00b2da604c2e08297ca984d5287301",
+      "record_id": "86075bb3058dce93d8bb21d428e18cf26a6585d54965c3ac0b1ba2a9126f963d"
+    },
+    "meta": {
+      "correlation_id": "9a5b2a4bcdb84f74a1a5e0fd4f551e48",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "freiburg-im-breisgau",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:44.009676Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "08311000",
+      "wikidata_qid": "Q2833",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 61,
+        "other_debtor_insolvencies": 166,
+        "year": 2024
+      },
+      "content_hash": "449c4db50ef1e479a67d0a25416b09f2a5aeb3b5715c9658a5778df3668ea711",
+      "record_id": "381d25f8fc2cb4cc11b20fe16d697d48fa6742c5d2d45c45bdced9d3b7e80671"
+    },
+    "meta": {
+      "correlation_id": "cbac426be5914e559c219263dac97519",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "fuerth",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:44.268137Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "09563000",
+      "wikidata_qid": "Q3075",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 49,
+        "other_debtor_insolvencies": 136,
+        "year": 2024
+      },
+      "content_hash": "f63831be7a1909e71f5bb53fd7417534673d57c0f08a233f2648a08c8e88c4c2",
+      "record_id": "6d7a202901fa4cd51784a7144f80de36102703b34b11250626eb73f4603ac414"
+    },
+    "meta": {
+      "correlation_id": "9e8375d2b80e4c47883f840382541ba9",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "gelsenkirchen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:44.538824Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05513000",
+      "wikidata_qid": "Q2765",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 99,
+        "other_debtor_insolvencies": 517,
+        "year": 2024
+      },
+      "content_hash": "565d33f3142bdc4df74e17c1402c3534f6bebc41471768d2a9801e2acadff104",
+      "record_id": "42b5fe82330c2f7bc47c52f917dc96be46204ff74f2631a69bfbb7b5ccc8ee91"
+    },
+    "meta": {
+      "correlation_id": "a64096d168aa4f8abb767f61308bcd11",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "goettingen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:44.744501Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "03159016",
+      "wikidata_qid": "Q3033",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 59,
+        "other_debtor_insolvencies": 502,
+        "year": 2024
+      },
+      "content_hash": "45c2b7bee61e5782721de4d7c0259e7667b9f621af3c52279e6465123c02daa8",
+      "record_id": "d6f050b27123b307e23f1daa993faa7bebffa39c78f6fd137f06a2da8190effa"
+    },
+    "meta": {
+      "correlation_id": "8cb14e8242a44a589f50e531a49799b2",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "guetersloh",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:44.958487Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05754008",
+      "wikidata_qid": "Q3771",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 92,
+        "other_debtor_insolvencies": 246,
+        "year": 2024
+      },
+      "content_hash": "f44a61171ee0d6cbad6885d8c46f5a8c6318b149abb5250ad3a7b790676548dc",
+      "record_id": "6a1dba89e23ae8f1df5c8231bbccbf0c537a789c73a067912bc3268325bc9d7f"
+    },
+    "meta": {
+      "correlation_id": "4065664022e9434a84a8ab5caf85e68a",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "hagen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:45.216731Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05914000",
+      "wikidata_qid": "Q2871",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 64,
+        "other_debtor_insolvencies": 291,
+        "year": 2024
+      },
+      "content_hash": "fabecf5b6964c211e0aa7e321e4281f0f03bfd174ae0f18842622f8fcc5680a4",
+      "record_id": "42a0fe628382c8883f2117ccfeb4714dddb7c5ddfee638ddf0f5ad6335078d75"
+    },
+    "meta": {
+      "correlation_id": "69d86c3396cf498e9d613e0288806df0",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "halle-saale",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:45.508018Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "15002000",
+      "wikidata_qid": "Q2814",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 38,
+        "other_debtor_insolvencies": 408,
+        "year": 2024
+      },
+      "content_hash": "7a74a7bfff276dc1cb41d1c9bbbd7cb59bf0440e12144f58eade0afb7ca6f5b2",
+      "record_id": "1ec2a8ead21a4198749f77d34e7f42096fcbf903eb90d717628a1fd9d7ac68fa"
+    },
+    "meta": {
+      "correlation_id": "32bd8355228e440581c09421703c686d",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "hamm",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:45.796747Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05915000",
+      "wikidata_qid": "Q2880",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 48,
+        "other_debtor_insolvencies": 262,
+        "year": 2024
+      },
+      "content_hash": "1c5452bfd26210135114b3465ff4f8496c4edb68bd8d8e664312b6d3dfe5defc",
+      "record_id": "910a9d4f3df5e8e7f70aa77ba9428b94368a10ed4bc03007fca0a4bcbe9bc0a6"
+    },
+    "meta": {
+      "correlation_id": "ba9f0bbf0378492ead200eda4b1af2e4",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "hanau",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:45.975946Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "06435014",
+      "wikidata_qid": "Q3802",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 91,
+        "other_debtor_insolvencies": 417,
+        "year": 2024
+      },
+      "content_hash": "8be118a6e16ace3fa2aa48677668f46a752dab2f735e4f47a0d04e9d9872e57f",
+      "record_id": "c43b7fe9e01f97581ec73d721279c91de72e2468a094cca01a16bb29c2fc7b0c"
+    },
+    "meta": {
+      "correlation_id": "5ac8d77350a1470bb8eb206996cc36f8",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "heidelberg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:46.198662Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "08221000",
+      "wikidata_qid": "Q2966",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 48,
+        "other_debtor_insolvencies": 179,
+        "year": 2024
+      },
+      "content_hash": "9edf0b3c665138dcdd89976071e89aa481f8eef4e13ca99fc1805bed0157bf9b",
+      "record_id": "8ffe77c1675990c1ce980e3a8319d03949eafb1ea8f4d032637071a918e801df"
+    },
+    "meta": {
+      "correlation_id": "5f4264374ead4fb8b6f29ba8e41176d2",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "heilbronn",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:46.366452Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "08121000",
+      "wikidata_qid": "Q715",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 48,
+        "other_debtor_insolvencies": 223,
+        "year": 2024
+      },
+      "content_hash": "13e8db2b663a891ec8f9122e5d536285becad63c147299a944be135d9d6f4cef",
+      "record_id": "f96025e8772ab35613348fa714f5c082eff371654d6edc82f0e74d4c9dd4c5f5"
+    },
+    "meta": {
+      "correlation_id": "a761ed66da2c47dbb974d7bc1e8d4420",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "herne",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:46.583551Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05916000",
+      "wikidata_qid": "Q2904",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 49,
+        "other_debtor_insolvencies": 528,
+        "year": 2024
+      },
+      "content_hash": "f53a95e5d29963259f6023a74454d2c4c3ae71a5afff6f82949985f8276bd50d",
+      "record_id": "2940a5fb52f55ff6fb187802080c319464ce7c6d4ba80d8b92fe885c1be30a6f"
+    },
+    "meta": {
+      "correlation_id": "ed11111979924bd2930d923101b2b730",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "hildesheim",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:46.773744Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "03254021",
+      "wikidata_qid": "Q3185",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 61,
+        "other_debtor_insolvencies": 493,
+        "year": 2024
+      },
+      "content_hash": "8ecde1fe3231a347792f849c68aac77645f1374ef89cc753d0f899dfd1cd6378",
+      "record_id": "0ac915b76469ae1459cf30463053cee6cb1dccb8c373b29ad48e70068cf23fea"
+    },
+    "meta": {
+      "correlation_id": "f0e343f29a394f7e9d75889de7805553",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "ingolstadt",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:47.037847Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "09161000",
+      "wikidata_qid": "Q3004",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 47,
+        "other_debtor_insolvencies": 157,
+        "year": 2024
+      },
+      "content_hash": "6d33e637e897def5271ad38af3acfa96299c327568a151358d94ab2d629f8f4b",
+      "record_id": "d3787947c9bb388c551c6ee13613b91d54d0410491b6c032a483a046ffdcee80"
+    },
+    "meta": {
+      "correlation_id": "21e747d666e24436b6d18f9783a98dd5",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "jena",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:47.315450Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "16053000",
+      "wikidata_qid": "Q3150",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 10,
+        "other_debtor_insolvencies": 67,
+        "year": 2024
+      },
+      "content_hash": "49d00eda736fda0ccba01837fa23da2d7ef42956244aed46b2f060a619a7e2d3",
+      "record_id": "08b9d2c17bd13470adf2a8cfcf0b458d63668b8a72e1d5e914abfe3905c7a4da"
+    },
+    "meta": {
+      "correlation_id": "09415fd6ad3a44a097d18064798199e0",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "kaiserslautern",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:47.543105Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "07312000",
+      "wikidata_qid": "Q3758",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 21,
+        "other_debtor_insolvencies": 168,
+        "year": 2024
+      },
+      "content_hash": "839a97370c70d613c94c472ba81ad46a9b413e844b5bfdc59ff847f28419662f",
+      "record_id": "8d4f2d9d8d070dadb6c65b24827561d3365a6423de7edae188314ba98c21584f"
+    },
+    "meta": {
+      "correlation_id": "196a2bfeb72e40f5997c20c0a209dcdb",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "karlsruhe",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:47.776151Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "08212000",
+      "wikidata_qid": "Q1040",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 96,
+        "other_debtor_insolvencies": 353,
+        "year": 2024
+      },
+      "content_hash": "d3924d98f39a90b0dda593721d877f81588cb9b941add0283053040c182f85bd",
+      "record_id": "594f5adcbb7c95b7cf4bd3901b5a9a35193313e7f4ec5724ac89c288fef8008a"
+    },
+    "meta": {
+      "correlation_id": "d3f66466468d49f58ba7f9685bd25284",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "kassel",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:47.983606Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "06611000",
+      "wikidata_qid": "Q2865",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 43,
+        "other_debtor_insolvencies": 362,
+        "year": 2024
+      },
+      "content_hash": "5714f5c2a8b17bc3e923689978fd91adb4dd3135e0f7b9ea7c8f70774dc76671",
+      "record_id": "18e17ed0364f5a787dbaef931e8746807445f98ac833ee9e1bd306c9a4d101fa"
+    },
+    "meta": {
+      "correlation_id": "03be7ca655594b06ad3b068d69f6a3af",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "koblenz",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:48.183031Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "07111000",
+      "wikidata_qid": "Q3104",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 25,
+        "other_debtor_insolvencies": 121,
+        "year": 2024
+      },
+      "content_hash": "b3a41eeaaad768b9abdc508141a3f8b44d290f78d494c0ea5b85a1b37c0de25b",
+      "record_id": "01e62ba48f0b6f6f3f756c1d170ff6931f60737e8fc63ddae12ac5d6c6df5869"
+    },
+    "meta": {
+      "correlation_id": "64563171a3584371acfce567ad2aaa9e",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "krefeld",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:48.451501Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05114000",
+      "wikidata_qid": "Q2805",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 85,
+        "other_debtor_insolvencies": 331,
+        "year": 2024
+      },
+      "content_hash": "327cb2cb0fbf56e1b36601dd35b01474e77834b720a6316ba253a0234c6c7b57",
+      "record_id": "4a82f7d7da3aa03bb08a51b958c6589fcc45b7c683595ab57e78545889cdfd89"
+    },
+    "meta": {
+      "correlation_id": "d6f4bc5a981e458e904dcb7f339d7b55",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "leverkusen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:48.620043Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05316000",
+      "wikidata_qid": "Q2938",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 61,
+        "other_debtor_insolvencies": 290,
+        "year": 2024
+      },
+      "content_hash": "56e1b30c96c60d0189fb0754d00ab69e0e44825344b1e0a10b64370bc96ece1b",
+      "record_id": "c459a4422f160ed4d9122fbf9a0449759fdeb93313935a5511f1e6b36648a5ab"
+    },
+    "meta": {
+      "correlation_id": "efe37d24f9b84a608e4e2f3373e9a876",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "ludwigshafen-am-rhein",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:49.041807Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "07314000",
+      "wikidata_qid": "Q2910",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 38,
+        "other_debtor_insolvencies": 323,
+        "year": 2024
+      },
+      "content_hash": "11457a9449638ea4fba20ef0e7a1ba26f02f8e1f92b8f1c382c18c2f8f8cd1aa",
+      "record_id": "e3284a9f357fa773f6c639f18fa9e1e77a4d0d132b4688874e4d43a9b4e57e71"
+    },
+    "meta": {
+      "correlation_id": "a2f6d63751af42898416a4e04c537ace",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "luebeck",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:49.261802Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "01003000",
+      "wikidata_qid": "Q2843",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 46,
+        "other_debtor_insolvencies": 403,
+        "year": 2024
+      },
+      "content_hash": "438379ec2d33436c4d8296d718776d74bd1c6000d232bb677df45910b5c554e2",
+      "record_id": "b95304cbe67f6ddc93d7fdd4021d30a10c2b56eb8b69f538c157d45817bf90ec"
+    },
+    "meta": {
+      "correlation_id": "5902a800737b4c5d9130047841eb7de2",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "mannheim",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:49.454524Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "08222000",
+      "wikidata_qid": "Q2119",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 175,
+        "other_debtor_insolvencies": 744,
+        "year": 2024
+      },
+      "content_hash": "7aa3db7542e3dee2ff05eac0252819e3b4690b1c26d92f361759d2a12850decc",
+      "record_id": "3d5a373ead7c07efb4b4be36659c8eec04850cad912b44025971fd6b751f2c19"
+    },
+    "meta": {
+      "correlation_id": "b030d68e88a448ce95f29bc6b2f6ac89",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "moenchengladbach",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:49.643632Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05116000",
+      "wikidata_qid": "Q2758",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 113,
+        "other_debtor_insolvencies": 517,
+        "year": 2024
+      },
+      "content_hash": "692529bebaa5ba7d71390900b2d0b29aba2f58bc691b0dda6cdc47a482a47d57",
+      "record_id": "ec28660eb8e10eb9e662dc0a9bcd25d6987751fae7a0623c8e3ac7360f6c2a88"
+    },
+    "meta": {
+      "correlation_id": "f317f37fb7fb4ad99c825fe9aa208d4a",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "moers",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:49.933123Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05170024",
+      "wikidata_qid": "Q3132",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 107,
+        "other_debtor_insolvencies": 487,
+        "year": 2024
+      },
+      "content_hash": "44f6d8c337c91811b5ad5484a067354988b69bd14b8f7ebf72003bc00a125d1d",
+      "record_id": "10cf2011ba5c943f96e5ddd678d9c909cd0d85ae67bc67071ef840af4c02f586"
+    },
+    "meta": {
+      "correlation_id": "ca145d9d3e2d4f84a43ff411f04c46de",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "muelheim-an-der-ruhr",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:50.149785Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05117000",
+      "wikidata_qid": "Q2899",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 43,
+        "other_debtor_insolvencies": 120,
+        "year": 2024
+      },
+      "content_hash": "6e86a6c3df907871861c26d42c54504d3e4ed81a41723160f3eaf2ad83b4d517",
+      "record_id": "585944d3c0229c75d09959f0ca34abb88a7298bab5c9032af9ab7590ad1e3ce7"
+    },
+    "meta": {
+      "correlation_id": "3776f2e59f3e4dd2a7f067ad3a99501d",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "neuss",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:50.400840Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05162024",
+      "wikidata_qid": "Q2948",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 111,
+        "other_debtor_insolvencies": 383,
+        "year": 2024
+      },
+      "content_hash": "04bb12310639a96daf8d65cfb67fdcaca63d19826a7a5830aa5baf6fd5d23389",
+      "record_id": "fe35e1ce2f78d8fa8ca20b2641f192f2cc85dd0d587ff1546a0acecef512b6af"
+    },
+    "meta": {
+      "correlation_id": "4031c025f2704380936a64801a1a211f",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "oberhausen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:50.588862Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05119000",
+      "wikidata_qid": "Q2838",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 53,
+        "other_debtor_insolvencies": 245,
+        "year": 2024
+      },
+      "content_hash": "d9ea5e2b51274da0e04f97ef0fda8332555e8c01cad98b83a079c6d7d1177d42",
+      "record_id": "79c865290b7bdd390bf2f04c5ff2fc7afd7bc345ddfeb8e27fabc0cca34a27b7"
+    },
+    "meta": {
+      "correlation_id": "c3cb7c8e52834a868aaa80dc855c3858",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "offenbach-am-main",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:50.802251Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "06413000",
+      "wikidata_qid": "Q3042",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 62,
+        "other_debtor_insolvencies": 345,
+        "year": 2024
+      },
+      "content_hash": "b4d4631c163b06441718fff9361eb19ac78ff1ff6cc191d72fb73a7c0a9756e6",
+      "record_id": "c32225902f6cef4953238a8db161b80ad2d615f6ed85a0b48538fe7d6bd31b35"
+    },
+    "meta": {
+      "correlation_id": "612d0fb6beef4e5cb915b912e955dd29",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "oldenburg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:51.011989Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "03403000",
+      "wikidata_qid": "Q2936",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 38,
+        "other_debtor_insolvencies": 341,
+        "year": 2024
+      },
+      "content_hash": "54cc836c1f711109272e36cd5fa8498dab7bf6a3995c2050a7b8c92e066e620b",
+      "record_id": "06a03289c5292d98f892549e109da0eb403b78fdaee8fa3d0e65e20a6516a449"
+    },
+    "meta": {
+      "correlation_id": "40b075a2d9c346309729f33fd4617b61",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "osnabrueck",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:51.313321Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "03404000",
+      "wikidata_qid": "Q2916",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 73,
+        "other_debtor_insolvencies": 376,
+        "year": 2024
+      },
+      "content_hash": "b5027020a3015ab1cc57f24518448f5214812f5aec15305a955464799b33e551",
+      "record_id": "460f70ea9ef23c81da1ceff117876bf6e69dcc53b02dd7c69da2a987ba03e666"
+    },
+    "meta": {
+      "correlation_id": "b2079d3c63fc4e1ca5b092fcb8e6dd8b",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "paderborn",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:51.717430Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05774032",
+      "wikidata_qid": "Q2971",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 81,
+        "other_debtor_insolvencies": 235,
+        "year": 2024
+      },
+      "content_hash": "abe56f284b34c761b5eafa2f31cb0e1f2fd058c1e148f33cee8ffbf5a58636d2",
+      "record_id": "5d6f0b1a50b22c42a718053b465a963f3f899c9a5ec0c7fee99f820d21dfc98e"
+    },
+    "meta": {
+      "correlation_id": "a94816f195ca4bfa830d92f6eb66c6c8",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "pforzheim",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:52.046912Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "08231000",
+      "wikidata_qid": "Q3046",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 33,
+        "other_debtor_insolvencies": 195,
+        "year": 2024
+      },
+      "content_hash": "d8b7d40ff640cd8d118a9f66792fb27653314139c2dacfb997d6b74052a1bd1f",
+      "record_id": "bf653ce99996bf9822e6e561a54a2c01d664642f2df25361300b40cc6a44f949"
+    },
+    "meta": {
+      "correlation_id": "0ba6dd3f5f064ddd862d48cc65a563eb",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "recklinghausen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:52.562532Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05562032",
+      "wikidata_qid": "Q3050",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 222,
+        "other_debtor_insolvencies": 860,
+        "year": 2024
+      },
+      "content_hash": "daa8b3390211e931c606c991b5dab1fa34fd672769bdcf74f1e54cf8131b6458",
+      "record_id": "80874ca6dde21cebf84f060d7dcaa49a074314dda4632f2e157e6be4a35b9724"
+    },
+    "meta": {
+      "correlation_id": "12315e46d43d41c2ae995727d8ace397",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "regensburg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:52.845489Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "09362000",
+      "wikidata_qid": "Q2978",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 36,
+        "other_debtor_insolvencies": 132,
+        "year": 2024
+      },
+      "content_hash": "150570d86daa00f18dd58db7cbc246d3f2df79a1322de58deb1a4fbb83847fc7",
+      "record_id": "c08a01d8744a235c37ce3f3332f4d77d88ebead084c36734f770cd699ec18de0"
+    },
+    "meta": {
+      "correlation_id": "c2a5c34b7d154dffbeb4f6c50405d63e",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "remscheid",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:53.163860Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05120000",
+      "wikidata_qid": "Q3097",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 30,
+        "other_debtor_insolvencies": 201,
+        "year": 2024
+      },
+      "content_hash": "85eccc9b8cbeeb8c3766d45a3bc1245a1651473b813df642289fb0f3d566e5a4",
+      "record_id": "8e7d3b69a14e36ef0c30a31770f4a6855c6a407762ebe61d235611e04bdf9ff8"
+    },
+    "meta": {
+      "correlation_id": "9663bf177f164b7ebcede1f273c78b67",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "reutlingen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:53.487152Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "08415061",
+      "wikidata_qid": "Q3085",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 44,
+        "other_debtor_insolvencies": 256,
+        "year": 2024
+      },
+      "content_hash": "6652a248f6dea12ec3d40d1c363d9b7455499f92bb00bf7e51b5d280286aff88",
+      "record_id": "d3f76ffa813e540c6c698ffcae2689a47422d1ef6f6ec9c8606e6675d92b05bd"
+    },
+    "meta": {
+      "correlation_id": "e1ee33c31ca24c078212e23c54b98f68",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "rostock",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:53.742581Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "13003000",
+      "wikidata_qid": "Q2861",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 38,
+        "other_debtor_insolvencies": 262,
+        "year": 2024
+      },
+      "content_hash": "1818b7e1b2ad6bb035c5a16dd9e39c616838108a62c534dc66d64f8a0ace680a",
+      "record_id": "e83efde5f6ac8a2863056152d0cd264fc9de7683ddc51b4d8d97fdff9de72744"
+    },
+    "meta": {
+      "correlation_id": "2ac593563ba64e04b4767a567c4c1c78",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "salzgitter",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:54.095004Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "03102000",
+      "wikidata_qid": "Q3200",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 25,
+        "other_debtor_insolvencies": 274,
+        "year": 2024
+      },
+      "content_hash": "b840ed2cc0200f1536ba9c802394f857c650286b62ca2654f0e14e689d304be7",
+      "record_id": "67000626f72ab7f6a01463d015fc6ef74d23218e9187ba30c0282db50a697900"
+    },
+    "meta": {
+      "correlation_id": "e435aac831db4bb29ab534202942818b",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "siegen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:54.362296Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05970040",
+      "wikidata_qid": "Q3167",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 54,
+        "other_debtor_insolvencies": 274,
+        "year": 2024
+      },
+      "content_hash": "686c480e5908515c986bc887e4f47b40b53b97945aa3cf097226dd5e4a808252",
+      "record_id": "37e705e68e9173a8409f08415900354ba12b4d1e08851b34e85e8f090108a3b3"
+    },
+    "meta": {
+      "correlation_id": "170eb836892c4b66b30c02e3c88618f0",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "solingen",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:54.599964Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "05122000",
+      "wikidata_qid": "Q2942",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 51,
+        "other_debtor_insolvencies": 223,
+        "year": 2024
+      },
+      "content_hash": "001ad08bd0255b037a837dc395a3f7a9795cdc2aaf3a79d3218bd5fbdb373c6c",
+      "record_id": "2fdad4ad5168d9bd94e52b8fb5112b82bfeb1ed8e90f76c7c34279c1ce969365"
+    },
+    "meta": {
+      "correlation_id": "bca84704dc3a4d76a09ea14f0bc5735e",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "trier",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:54.771432Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "07211000",
+      "wikidata_qid": "Q3138",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 19,
+        "other_debtor_insolvencies": 123,
+        "year": 2024
+      },
+      "content_hash": "c415c8d797414f4c428f5a9fe53c0372d54c6460f3ae254d4ead9cd7f959d743",
+      "record_id": "59d8ca76eec6e6d039aa105148101ef8c343582b609422723eaa53bd8f5cb491"
+    },
+    "meta": {
+      "correlation_id": "0995dd1d02774fac950acc443b554c87",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "ulm",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:54.982255Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "08421000",
+      "wikidata_qid": "Q3012",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 32,
+        "other_debtor_insolvencies": 160,
+        "year": 2024
+      },
+      "content_hash": "fa40767bfab02c87b720a2691a2ed55ffe657fbc8fff9aa51f17d4f635a6f04f",
+      "record_id": "f2c9be3dfeae437e251406ff13e3037575ee582d18b5e611a618e6c5d6e987f5"
+    },
+    "meta": {
+      "correlation_id": "b4da9411edbe4d578357cc49132a2110",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "wolfsburg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:55.178215Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "03103000",
+      "wikidata_qid": "Q3014",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 22,
+        "other_debtor_insolvencies": 158,
+        "year": 2024
+      },
+      "content_hash": "a6e5b93bd5b2a9f21747d5d8363c9b5a32e565efbf8f3a18c1f1805b15f00d7d",
+      "record_id": "82816f65e43a906066781f8aa8a3c4fd8d7fa686f9373c236d5881e2a1749030"
+    },
+    "meta": {
+      "correlation_id": "b7a31bc409f247d28f0d611597eeb36e",
+      "source_status": "ok"
+    }
+  },
+  {
+    "data": {
+      "city_slug": "wuerzburg",
+      "geo": null,
+      "observed_at": null,
+      "retrieved_at": "2026-11-23T14:06:55.408668Z",
+      "source": "regionalstatistik",
+      "license_id": "dl_de_by_2_0",
+      "license_tier": "A",
+      "schema_version": 1,
+      "ags": "09663000",
+      "wikidata_qid": "Q2999",
+      "attribution": {
+        "text": "Statistische \u00c4mter des Bundes und der L\u00e4nder",
+        "license_url": "https://www.govdata.de/dl-de/by-2-0",
+        "modified": false
+      },
+      "payload": {
+        "kind": "insolvencies",
+        "corporate_insolvencies": 25,
+        "other_debtor_insolvencies": 86,
+        "year": 2024
+      },
+      "content_hash": "05b706327d5a5ea13c0daa6b699635657edfccc0a64483c76ec5e74b245eac81",
+      "record_id": "c955dcde87476fdfb33ab940ca2090e28cf75535b5a521d692d4f3b2cf341ec0"
+    },
+    "meta": {
+      "correlation_id": "40fccdac0e7d41e4b011bd572b0d156e",
+      "source_status": "ok"
+    }
+  }
+]
