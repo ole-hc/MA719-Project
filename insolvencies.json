@@ -4,7 +4,7 @@
       "city_slug": "berlin",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T09:30:59.092472Z",
+      "retrieved_at": "2026-11-28T09:40:12.797416Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -23,10 +23,10 @@
         "year": 2024
       },
       "content_hash": "eecb79b57e0e07df0fb50e6652ae178f18f3dcc05235714d11d6df179fef8a9f",
-      "record_id": "1541fa2613eaf2a6dbb948dc424a3f6c3250c82baca62de17f554f33597c8dbe"
+      "record_id": "149ee1065bf8837fefc403e637c870a3e7999af9f8378bf7b378f383977c9ae2"
     },
     "meta": {
-      "correlation_id": "b4021380aed246778760c874b8a08117",
+      "correlation_id": "aac44aea530943a1b66989aa8cd6be04",
       "source_status": "ok"
     }
   },
@@ -35,7 +35,7 @@
       "city_slug": "hamburg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:35.630879Z",
+      "retrieved_at": "2026-11-28T14:05:51.500291Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -54,10 +54,10 @@
         "year": 2024
       },
       "content_hash": "ff56254e0c527d038a66c9af20f74993df8ee0c278fc81a14fd2794a159c168c",
-      "record_id": "d7468190f74ec5377123cd2539951e4b204db1e008a6c18b7eb711f1d92cfd4c"
+      "record_id": "6551428f1c8fb0a0aa7d6803b3dc02044f3bda8194ba8bc8a27d0d5ac3f179fa"
     },
     "meta": {
-      "correlation_id": "1f9314d319714cf6a58b7a137cd63fcf",
+      "correlation_id": "2be9ad7e89ae4cb4a9c0523585df5073",
       "source_status": "ok"
     }
   },
@@ -66,7 +66,7 @@
       "city_slug": "muenchen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:35.925196Z",
+      "retrieved_at": "2026-11-28T14:05:52.242336Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -85,10 +85,10 @@
         "year": 2024
       },
       "content_hash": "a3f1eec734a39019622fc66d5f52a9e65f29dc7fe6f86bc82ea40f3abbe123a8",
-      "record_id": "d74790d6723ddf1a624e421830b7608be38f7a7726183766a8449b6a920776c8"
+      "record_id": "5e63155d126e788801ec508d37a1a90231d57eb105dcf2b336214211f1400072"
     },
     "meta": {
-      "correlation_id": "9892a0fbf12049fc9297caf6c3a909c9",
+      "correlation_id": "877a0ca0482a455b9dafedfee49fff4f",
       "source_status": "ok"
     }
   },
@@ -97,7 +97,7 @@
       "city_slug": "koeln",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:36.311757Z",
+      "retrieved_at": "2026-11-28T14:05:52.645113Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -116,10 +116,10 @@
         "year": 2024
       },
       "content_hash": "6272672a249cb22d87334bd06ad3055650e8f7708f7fdfb320f378d1167f7ca7",
-      "record_id": "82ee03f8d892240c4cd5e9dd8c2a2d6690ab14dabbeecd1d591f0adecbe99f5d"
+      "record_id": "0a1e3872ecb167e27dd9e35c3453989daeeb4c620039d3ccb027c64a460f8748"
     },
     "meta": {
-      "correlation_id": "13c835d28280444d98d078a1f6f0d9a2",
+      "correlation_id": "f16a0af393d444c4bfea553ae9cfe1a9",
       "source_status": "ok"
     }
   },
@@ -128,7 +128,7 @@
       "city_slug": "frankfurt-am-main",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:36.547961Z",
+      "retrieved_at": "2026-11-28T14:05:53.246349Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -147,10 +147,10 @@
         "year": 2024
       },
       "content_hash": "3b2d5a1c7c70639c1bc0b659f3122c5a9369bd5c9678c8aff3e4ec69caa36f23",
-      "record_id": "7d48410f459fea5627b3387d130ccc4b0e813fcf349a2319b88e406701a280b4"
+      "record_id": "ba4c30f7c8cbed9c583ca3b4102f628c906a4bef572a6041219ca11c9fd9fece"
     },
     "meta": {
-      "correlation_id": "5841dc5cc43a487e809d330cf933e6e8",
+      "correlation_id": "af42fe1cc14c4c6d80354e4eb8bb808d",
       "source_status": "ok"
     }
   },
@@ -159,7 +159,7 @@
       "city_slug": "stuttgart",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:36.750941Z",
+      "retrieved_at": "2026-11-28T14:05:53.697068Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -178,10 +178,10 @@
         "year": 2024
       },
       "content_hash": "d53ae909660d964f9c7eb22eb516b8f57db32a429c270cb038dc7e75b9847380",
-      "record_id": "5602eb3f482ed0c448ada424dbf21bf5154727d0caa00d97b2cf9a291d8c4036"
+      "record_id": "998f1466006985a3a320833cd81ecf5bea3523dc8cdb159861685f9ebd2f394e"
     },
     "meta": {
-      "correlation_id": "043a93fcc88f4e6cb337e8574e9778db",
+      "correlation_id": "ea513dcaf5574a23832b321e361d0a2e",
       "source_status": "ok"
     }
   },
@@ -190,7 +190,7 @@
       "city_slug": "duesseldorf",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:36.975725Z",
+      "retrieved_at": "2026-11-28T14:05:54.282864Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -209,10 +209,10 @@
         "year": 2024
       },
       "content_hash": "6f0c5a09e2b25995cc0989073dd1b0208b49ee0a5c016ef1a03dc87b3809be31",
-      "record_id": "e756a0717c901fe7c40d47a38c26e183c7d92f9e0713b3dd3a21e9439d0f4910"
+      "record_id": "b2fb5e5bdb34d0893ad514ff6d16baa69651b11fadbbcbbcfae3dac503501c57"
     },
     "meta": {
-      "correlation_id": "98ceeea993394d8fa72ae26a9b579385",
+      "correlation_id": "d1740e1d9778483f8b1131f04be38199",
       "source_status": "ok"
     }
   },
@@ -221,7 +221,7 @@
       "city_slug": "leipzig",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:37.154071Z",
+      "retrieved_at": "2026-11-28T14:05:55.721031Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -240,10 +240,10 @@
         "year": 2024
       },
       "content_hash": "6c1c415f1d5561fa0874082427a2db7d87b69c1a7dbb68a3486aa5526bd8cdd4",
-      "record_id": "02ccf11ec047e664d19d06fe771ca3711b46655b5fb63dcbb829c97fb72c15e8"
+      "record_id": "0e85cec905d3670ecd1c29010729ec4cd39639467b16fbeabd5a85db7be825e6"
     },
     "meta": {
-      "correlation_id": "a06084ea48f04ac480ee99d3162b7f66",
+      "correlation_id": "daafe339ee1242c68aada4c59380cfa4",
       "source_status": "ok"
     }
   },
@@ -252,7 +252,7 @@
       "city_slug": "dortmund",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:37.461692Z",
+      "retrieved_at": "2026-11-28T14:05:55.999252Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -271,10 +271,10 @@
         "year": 2024
       },
       "content_hash": "b7b5c5f99e1cd213bb32bb4f39ae6e220c38ae7b923bb91bc003a5d16b178a49",
-      "record_id": "6a99660d55f8445c3842b3923f7b34d7b76837c21869606aa60a69b4c7339b10"
+      "record_id": "5e37127fe543e267f611c802098c82754d766771ea85652ac577056a1f570a94"
     },
     "meta": {
-      "correlation_id": "76795d69a6b340749075d026cbc23e7c",
+      "correlation_id": "908bdaff07bb4d42a409394c5864cdf7",
       "source_status": "ok"
     }
   },
@@ -283,7 +283,7 @@
       "city_slug": "essen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:37.801270Z",
+      "retrieved_at": "2026-11-28T14:05:56.702726Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -302,10 +302,10 @@
         "year": 2024
       },
       "content_hash": "15808b50e9012b8e267a1a80ae3fa8539ba8fdcdfb908717b727d6d87904337f",
-      "record_id": "24ca15209e6cf309a8dbba03d3c991810dcdc76f27f93887c1475cc0400c67e9"
+      "record_id": "dc92a36b19a35f382571fea6181196aa7d88f521304f5beffa147a62be81ba80"
     },
     "meta": {
-      "correlation_id": "2aa5ee11c530419f979ddb8365d09ef1",
+      "correlation_id": "f4b4556288b540039d63676faa0a40d8",
       "source_status": "ok"
     }
   },
@@ -314,7 +314,7 @@
       "city_slug": "bremen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:37.999008Z",
+      "retrieved_at": "2026-11-28T14:05:59.614367Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -333,10 +333,10 @@
         "year": 2024
       },
       "content_hash": "6bba5fc84454fffccca78f7d0b7e1e45c17e49f0cf36757c2f9724b4976fd3ee",
-      "record_id": "136463c3c83c4cf2cf041dec03f8f3bb42a4bcb64a94bde3c67c9319f884b28d"
+      "record_id": "ea44e8f417a7e9ff068b3166c285b649ac581e831c96116ac8b6fe900cea6693"
     },
     "meta": {
-      "correlation_id": "be34b601f55f4b209e9f646438465dc4",
+      "correlation_id": "d547ebd1148649a3a8ec874865028df1",
       "source_status": "ok"
     }
   },
@@ -345,7 +345,7 @@
       "city_slug": "dresden",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:38.180023Z",
+      "retrieved_at": "2026-11-28T14:06:01.654243Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -364,10 +364,10 @@
         "year": 2024
       },
       "content_hash": "89954ec7be1592a7ae9f6afb078c19150d22c8fbd669aa5511b070067d8c4927",
-      "record_id": "803ff72f4dba00e15a4f4289bf5d623bc1a35a408fa3ad0e09e9eb89ac64d07e"
+      "record_id": "9798eabb858e72373ac99dffff1b7e4a75c49f3b6ecebaa92effe0ae8f0d14a9"
     },
     "meta": {
-      "correlation_id": "861d87538d6044f6a5f1e4992c469878",
+      "correlation_id": "61923acd66a94ca7868fb9ab2f7d404d",
       "source_status": "ok"
     }
   },
@@ -376,7 +376,7 @@
       "city_slug": "hannover",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:38.435736Z",
+      "retrieved_at": "2026-11-28T14:06:02.701958Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -395,10 +395,10 @@
         "year": 2024
       },
       "content_hash": "1abdcdffe00f2f5ace9c5d1d9fa3972ac897f8d33e7f627b3794906d7da2d3c2",
-      "record_id": "9254aba845b88155058218565dd89554b037bca09893d567c72d2a1aa120f47f"
+      "record_id": "5ac7392b5a41e04d458daeb0c5b0c5f665e03943e3a331f6619b4b77de6ad5db"
     },
     "meta": {
-      "correlation_id": "e0ad203219744997a5b4f89e8caed442",
+      "correlation_id": "2c5ceed9caf34a909f599ef9b84facb9",
       "source_status": "ok"
     }
   },
@@ -407,7 +407,7 @@
       "city_slug": "nuernberg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:38.737410Z",
+      "retrieved_at": "2026-11-28T14:06:03.249987Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -426,10 +426,10 @@
         "year": 2024
       },
       "content_hash": "60012c2c8cb94e013faae6cef3647ede871b45820131c4e35fc4c35db40d3f8a",
-      "record_id": "14e5a221a47ab01de6f92b715a5e7334d85ec801b9c95ade835a649c16298df6"
+      "record_id": "a024a0a85edaf0c80f13fc02fa504a3a61a56cee2bce91f37cd6c322a8ba6771"
     },
     "meta": {
-      "correlation_id": "7124ff5daf84487f9a64eddb29f1f3b8",
+      "correlation_id": "079678a7934941afbf37903f4ec6d685",
       "source_status": "ok"
     }
   },
@@ -438,7 +438,7 @@
       "city_slug": "duisburg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:38.914348Z",
+      "retrieved_at": "2026-11-28T14:06:04.127625Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -457,10 +457,10 @@
         "year": 2024
       },
       "content_hash": "4b2d185ecf9b4a4511e5caacc84661594dd9b316675a84c65c1bbd0acd8454ec",
-      "record_id": "6d4088dce837b9776e9bff6d109e49050511af1a65db580411a6a8425270d773"
+      "record_id": "857154d2b0d5bbd08f2cb162b2c8607cbf621177ad84ad2dd4a164fc00f443a2"
     },
     "meta": {
-      "correlation_id": "07ea7724446f48ae9466f8cc6422c7d9",
+      "correlation_id": "79525fe5cdf8438595cffe863f3ea9d1",
       "source_status": "ok"
     }
   },
@@ -469,7 +469,7 @@
       "city_slug": "bochum",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:39.090972Z",
+      "retrieved_at": "2026-11-28T14:06:05.184276Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -488,10 +488,10 @@
         "year": 2024
       },
       "content_hash": "47d59b1795740b97ab59fc06e64c4f7eaa97b8854558cde5cad73bd77de74ac7",
-      "record_id": "e885f0b03801bf5ff06732759a855aa8fc2a09b686e779b2bde40a9b517635e2"
+      "record_id": "05087c2fa9f4929ebcbb5faefdeed78e33a24033740148cc9230781a8b07e074"
     },
     "meta": {
-      "correlation_id": "433723e46e744820ab0d44b1af65f7cc",
+      "correlation_id": "0e56b9d776744039bae3617c62c85eef",
       "source_status": "ok"
     }
   },
@@ -500,7 +500,7 @@
       "city_slug": "wuppertal",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:39.380052Z",
+      "retrieved_at": "2026-11-28T14:06:05.759191Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -519,10 +519,10 @@
         "year": 2024
       },
       "content_hash": "affba466ee1878d7f00fb632fb447c794fedc2eca7e0187af82305774f138726",
-      "record_id": "1f1890532573d2ebfd0e8c13215128172b55e6dcc72a8b64b5a6310d950d51c3"
+      "record_id": "b33cb88c77468f3788e153a8240941afa4e9707e3f4aca996a51213e4e5c010b"
     },
     "meta": {
-      "correlation_id": "ca9065097592492eaa4466279efcdace",
+      "correlation_id": "855259e831f14ae59ba3ea2d6c13e2c1",
       "source_status": "ok"
     }
   },
@@ -531,7 +531,7 @@
       "city_slug": "bielefeld",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:39.633701Z",
+      "retrieved_at": "2026-11-28T14:06:06.584681Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -550,10 +550,10 @@
         "year": 2024
       },
       "content_hash": "58ac47408d5e9e2c5598d16d08a7327723eca9c6280812ac956919d29745e47d",
-      "record_id": "03566882ab3816a6cf3e73e7839f0006ca6a89e04f669b3ae52b2ebcf8275810"
+      "record_id": "792962df2ff76bd9367d12cf9932b696ff6ccdf7fe2ba4bbc0ea5475561f36af"
     },
     "meta": {
-      "correlation_id": "bb42fa6a2037458cb6ba04ac1ed16b31",
+      "correlation_id": "1fdde5780c6149209c911f2cc7f9ca13",
       "source_status": "ok"
     }
   },
@@ -562,7 +562,7 @@
       "city_slug": "bonn",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:39.820036Z",
+      "retrieved_at": "2026-11-28T14:06:07.159995Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -581,10 +581,10 @@
         "year": 2024
       },
       "content_hash": "739cbb62b887d667a676f512a8ad4b63a459a19b3647e5ea9af368090e4da15b",
-      "record_id": "a8a069c7e8e96ed8e3b05e15286b47f327541e4966cde13535e0286289bb7e71"
+      "record_id": "c15a53c5aa42a4b7e9b5c715ca8df3aef82964c3f6371c87f527b09788a163ce"
     },
     "meta": {
-      "correlation_id": "9db82ce370484ed49419581471ecbaea",
+      "correlation_id": "087288c208c44d98afc66065f9e6d237",
       "source_status": "ok"
     }
   },
@@ -593,7 +593,7 @@
       "city_slug": "muenster",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:40.048272Z",
+      "retrieved_at": "2026-11-28T14:06:07.402667Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -612,10 +612,10 @@
         "year": 2024
       },
       "content_hash": "c365b865fb0eced6235e824f250f7049806e7d3cc3f1ab280ec2948bc82761f4",
-      "record_id": "c7fc085ee6ce67283a6b6fc4b351fa75a5f0ebbf94eb2bfc92a51c38eeff735e"
+      "record_id": "447b645447b8ed673f2df9e1b26b97a4cdd1ea2a6f590802c07c4a2f24f47695"
     },
     "meta": {
-      "correlation_id": "9291ad26c6fc47768905d9c85be6560a",
+      "correlation_id": "5beede8a79bb4b31b31f34e2b0e78610",
       "source_status": "ok"
     }
   },
@@ -624,7 +624,7 @@
       "city_slug": "wiesbaden",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:40.234923Z",
+      "retrieved_at": "2026-11-28T14:06:09.882788Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -643,10 +643,10 @@
         "year": 2024
       },
       "content_hash": "62e6cfbdc1a1cfd79d051a7fb2d6ba1ebb192e1f96883c3885bea751beb58e89",
-      "record_id": "3dffc137cdf59a3ba687e8c4e65ae1831abba78e29098fefbbecfa7dea2f0a3a"
+      "record_id": "5a1da01f684a04e7ae241ae3ae6b6c1266b33faed67b5a0fe763104fff25947f"
     },
     "meta": {
-      "correlation_id": "abd08215016b47108dcb896660875e13",
+      "correlation_id": "53f3df9d7b2e4741bc4c9d14d25baf9b",
       "source_status": "ok"
     }
   },
@@ -655,7 +655,7 @@
       "city_slug": "kiel",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:40.463758Z",
+      "retrieved_at": "2026-11-28T14:06:10.724021Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -674,10 +674,10 @@
         "year": 2024
       },
       "content_hash": "8168b63d885353f1272d2d3cdb328e9b4b4f3c489569ce780231198f4d94eec5",
-      "record_id": "d31b85050ca80e52e8c8757121692cd6906fb0acb94e24f7734c2fe977cf5562"
+      "record_id": "77cb795ee3be57486fda6113b88820904abebd02cdc24ff7fc7aeaafd97f4b3f"
     },
     "meta": {
-      "correlation_id": "596a4ceeb35a456abcc083f7c370a4f4",
+      "correlation_id": "834c293d37904d33afbb588e1fbb260c",
       "source_status": "ok"
     }
   },
@@ -686,7 +686,7 @@
       "city_slug": "mainz",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:40.662795Z",
+      "retrieved_at": "2026-11-28T14:06:11.448742Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -705,10 +705,10 @@
         "year": 2024
       },
       "content_hash": "ec9c745a7d4bc1900a825806ae2bf4d2bb0a489700f460e89488d29de3869deb",
-      "record_id": "198309ffa822c88263959b05b903d7ecd7ffbf92e074fbda02b2d628137a5265"
+      "record_id": "5695ab61c46b38f1512e04c670f778367e2057a2a44c1f03a44eb65d6919747c"
     },
     "meta": {
-      "correlation_id": "86f400c3353d4ae69e21ddd4aa0c34e0",
+      "correlation_id": "962f88371035489da7eed9f82e5a4fe2",
       "source_status": "ok"
     }
   },
@@ -717,7 +717,7 @@
       "city_slug": "magdeburg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T13:23:35.624010Z",
+      "retrieved_at": "2026-11-28T14:06:12.421484Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -736,10 +736,10 @@
         "year": 2024
       },
       "content_hash": "0ba982fd5514d3add6602527211a9a741d6296e64782d29d123074a201ad65fc",
-      "record_id": "b2e9a7025d18977a817857930f9f513ec92720c5dc60ea4a918bc6f968a3b988"
+      "record_id": "0ebbac219f0f47cd329a9542c3bc0aa81740f5fee031499bad6ee6e5aaf385c2"
     },
     "meta": {
-      "correlation_id": "3d25ebafbdfc4e74bbeb0b81100b9f79",
+      "correlation_id": "ba7ef39c69674257a21c784bc86abab7",
       "source_status": "ok"
     }
   },
@@ -748,7 +748,7 @@
       "city_slug": "erfurt",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:41.057865Z",
+      "retrieved_at": "2026-11-28T14:06:13.145939Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -767,10 +767,10 @@
         "year": 2024
       },
       "content_hash": "edc5e33fb5d4c29a8f7bbcc772874768137067a162afcbcce59025ddbf66e2d0",
-      "record_id": "b92d0165d839729b970cd07f2e71236ed8582b1fe131295e8c1a8c30fa8d788a"
+      "record_id": "5c2859bfa07cc2343fe6a2de66b00760abe43c964c31003ef790224d9c93536a"
     },
     "meta": {
-      "correlation_id": "a1c4c86a1ea042b1858d677812526a2f",
+      "correlation_id": "d8c8cb258e764ade81107c999b097f53",
       "source_status": "ok"
     }
   },
@@ -779,7 +779,7 @@
       "city_slug": "potsdam",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:41.264099Z",
+      "retrieved_at": "2026-11-28T14:06:14.455849Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -798,10 +798,10 @@
         "year": 2024
       },
       "content_hash": "c40a1d12abc383bed0aabafad5e5a19f5dbc8c25d5be446cede89d1f142ef7a7",
-      "record_id": "850543fee87c99b779228d8b0db5b49ad806b0a7d5fa3a70df6d3cdbc91bf9e2"
+      "record_id": "1a3e075621f94abb7364eb11ba7e7adbc02be4d23089a795e938177640fd57f0"
     },
     "meta": {
-      "correlation_id": "54428e24519d4f498f59b54258f5e3f2",
+      "correlation_id": "645cf88e46d046b5a918d7e0b2e96823",
       "source_status": "ok"
     }
   },
@@ -810,7 +810,7 @@
       "city_slug": "saarbruecken",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:41.450877Z",
+      "retrieved_at": "2026-11-28T14:06:14.761683Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -829,10 +829,10 @@
         "year": 2024
       },
       "content_hash": "2611503a2407de8dc0948e279f34c20faad1f5bd0723a3c52a2f2d113576187a",
-      "record_id": "5283eb4f78755405ed6dbb9e3d92e96854564cc6feadbdd1dc78ced6426d3107"
+      "record_id": "8a2d547325926aa2ae2fb25cd0df6977ba211d9108f905c6ae060d8fd3b87af6"
     },
     "meta": {
-      "correlation_id": "9b3dab3ed8ff4b5283ffaa5580bb83d2",
+      "correlation_id": "273c5b917a89431bb2543328581e4f74",
       "source_status": "ok"
     }
   },
@@ -841,7 +841,7 @@
       "city_slug": "schwerin",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:41.760769Z",
+      "retrieved_at": "2026-11-28T14:06:15.418987Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -860,10 +860,10 @@
         "year": 2024
       },
       "content_hash": "246d2a2963f35acf091281271da2be24e41a77c6b16ab990ed4383132c75f646",
-      "record_id": "3ef8d11dd2770892be1e69f4d6aa7ffba063788f822fdf8d7405acda3efd7ed6"
+      "record_id": "9e6d91765f5eb48825fa539b819e240a9c1371e409121118aa77ed7ce19195aa"
     },
     "meta": {
-      "correlation_id": "013e31b1282d403da276451a9d7608b6",
+      "correlation_id": "a30ffef6ae8d4b8ab9506bfd336576f2",
       "source_status": "ok"
     }
   },
@@ -872,7 +872,7 @@
       "city_slug": "aachen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:42.010619Z",
+      "retrieved_at": "2026-11-28T14:06:16.472542Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -891,10 +891,10 @@
         "year": 2024
       },
       "content_hash": "bfe04d459887d5d1220447417cbb6578993e2534dcd099c92c88c20be02ad2ad",
-      "record_id": "b37aec8accb432336eb2437030e991888cf3df5695ab4a1172f653303f5b0154"
+      "record_id": "2f08b4d5dfe77db01c4dee92028e948b215ba89b5d3c957f334fc7bbe3528535"
     },
     "meta": {
-      "correlation_id": "1802f42ae82543a39c8db786f4fb6731",
+      "correlation_id": "36625321dab74dafa5ae1f864401992c",
       "source_status": "ok"
     }
   },
@@ -903,7 +903,7 @@
       "city_slug": "augsburg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:42.180621Z",
+      "retrieved_at": "2026-11-28T14:06:17.217603Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -922,10 +922,10 @@
         "year": 2024
       },
       "content_hash": "6900c98711840c124a40504f9527b68f71c5c017d4c391e6d611c99205c29fdd",
-      "record_id": "7d66945326eee823e75aa711cdf6d373a1ed87c73fb2373c32341537b567254e"
+      "record_id": "814e66e26d66484a44d6bf819f67b7a7ca04dec446dd3d44cc11843f5708d1e7"
     },
     "meta": {
-      "correlation_id": "77e2d2840e99420e91d439f5052ebf1c",
+      "correlation_id": "2c24cb2290be4731b484c21f32010330",
       "source_status": "ok"
     }
   },
@@ -934,7 +934,7 @@
       "city_slug": "bergisch-gladbach",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:42.419344Z",
+      "retrieved_at": "2026-11-28T14:06:18.679211Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -953,10 +953,10 @@
         "year": 2024
       },
       "content_hash": "43cd46b1f92a219f299c0b4a0fcec8c8b2f56da4e938b5fd8e3b34582e7be346",
-      "record_id": "9fa498eaf1a860bc903598de4bd18e925d57da4a26db340a844414abe3a8da76"
+      "record_id": "5fca9b4581794ac83366224198f21a74ff073bb8eb1b57873f9bdd87838c2597"
     },
     "meta": {
-      "correlation_id": "191204819e85468b9fc02ef653188902",
+      "correlation_id": "527ee540ab124a7685a2bdda61d4209e",
       "source_status": "ok"
     }
   },
@@ -965,7 +965,7 @@
       "city_slug": "bottrop",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:42.606667Z",
+      "retrieved_at": "2026-11-28T14:06:19.473184Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -984,10 +984,10 @@
         "year": 2024
       },
       "content_hash": "c54fa08a031298cf026fe06b7fd6e499a52f562f0e4509781a1aacd2e939e096",
-      "record_id": "3459d63c28ca28bb51425347d4f90c7e378d4d8feae2a2dfe0984ab168393741"
+      "record_id": "9c83a2739c15833d4a9a09dd90ee8641d67a7438af78f0523ecf0707d3849bb4"
     },
     "meta": {
-      "correlation_id": "1af8c16f300148aa9644b108c9aab24f",
+      "correlation_id": "1e83a24e7d004268a5b825d4864968bf",
       "source_status": "ok"
     }
   },
@@ -996,7 +996,7 @@
       "city_slug": "braunschweig",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:42.826437Z",
+      "retrieved_at": "2026-11-28T14:06:20.379928Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1015,10 +1015,10 @@
         "year": 2024
       },
       "content_hash": "b2dc1a114acb0350e828b1efa5a4a349df036e2f4426c606d360d1725402ccf1",
-      "record_id": "0d2e6b8a6364f82da7f8e5881f78df3b3e912248ff801e7206518fd6c1257eca"
+      "record_id": "7d5bcada248cdaa725abe32d67875ecf14f6232bd923a98a45113dcc429129dc"
     },
     "meta": {
-      "correlation_id": "3f61b478e508447297e2bfbd78928664",
+      "correlation_id": "b578f8b623f24aedb7d35b67087ff689",
       "source_status": "ok"
     }
   },
@@ -1027,7 +1027,7 @@
       "city_slug": "bremerhaven",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:43.002548Z",
+      "retrieved_at": "2026-11-28T14:06:20.568005Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1046,10 +1046,10 @@
         "year": 2024
       },
       "content_hash": "d6d73703201e4202e37ad0264ccc349966f1b29c2b97d33db6484860432002e7",
-      "record_id": "d23cf9df458a530fb5eafee135af8143e61ea4ac8f74e5e56c18909aa2f2515a"
+      "record_id": "6935d86c78ca631376af2ae5e4ba58072999774c5440fcec44c6ac0e41d18b96"
     },
     "meta": {
-      "correlation_id": "667a8e9e290b4537bd1527aff2b68783",
+      "correlation_id": "7e2a5e5c01ba45c28f8ea51f51c54f12",
       "source_status": "ok"
     }
   },
@@ -1058,7 +1058,7 @@
       "city_slug": "chemnitz",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:43.200111Z",
+      "retrieved_at": "2026-11-28T14:06:21.332797Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1077,10 +1077,10 @@
         "year": 2024
       },
       "content_hash": "6dfebdd832297bfccd7e54952e9140898d2b8832bb3a846462099cf97c674afc",
-      "record_id": "639cbedd2d260a02cec3ab60b81e38dcb0820060add5b0631af92fe030bba33d"
+      "record_id": "043e361889e6f127d522b73463d9d8df0bd797c6f89bfbf0c24d99ed761daa90"
     },
     "meta": {
-      "correlation_id": "cf601ecf90c841ee93e6715e94464b96",
+      "correlation_id": "88610dcb2387478d9983e3db71eb7801",
       "source_status": "ok"
     }
   },
@@ -1089,7 +1089,7 @@
       "city_slug": "cottbus",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:43.484988Z",
+      "retrieved_at": "2026-11-28T14:06:21.735386Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1108,10 +1108,10 @@
         "year": 2024
       },
       "content_hash": "d4149541a8fec3b49bd57f20bea8a64624b09e42e8899946fc3289939876ebb0",
-      "record_id": "8b0dd2ce6c23ee00b74b864b4e446a8906e211930f352efc6c7a56c835eda6ca"
+      "record_id": "b9402fa141ea72cb711446921007fe9a3b82dde3e5fd561ba53714ec90b0e215"
     },
     "meta": {
-      "correlation_id": "d33234ba5fa14ab1b97b6fc7b872e8c5",
+      "correlation_id": "f33d01a25f8d4f4895c816fc0032c753",
       "source_status": "ok"
     }
   },
@@ -1120,7 +1120,7 @@
       "city_slug": "darmstadt",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:43.633788Z",
+      "retrieved_at": "2026-11-28T14:06:22.771268Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1139,10 +1139,10 @@
         "year": 2024
       },
       "content_hash": "e8934fb4636736fad9d44a33648970ae06b9af86a720df02bf347ded951450e1",
-      "record_id": "e8cc8b5212805eedd8efa197907d85e6daabf4216ad84ff0a9ba236467474878"
+      "record_id": "ca3bf34a1e6fc50b12e157b36319dbef01369dc388eb3d213bd6a842fc66d744"
     },
     "meta": {
-      "correlation_id": "82dd7602237040f2942e0d0fa7aa30cc",
+      "correlation_id": "13e6a2f1de314c05965af2578bb36385",
       "source_status": "ok"
     }
   },
@@ -1151,7 +1151,7 @@
       "city_slug": "erlangen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:43.830340Z",
+      "retrieved_at": "2026-11-28T14:06:24.900420Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1170,10 +1170,10 @@
         "year": 2024
       },
       "content_hash": "782d6b78884cdb8c5b7f90aabe44f32c6c00b2da604c2e08297ca984d5287301",
-      "record_id": "86075bb3058dce93d8bb21d428e18cf26a6585d54965c3ac0b1ba2a9126f963d"
+      "record_id": "6e1f9bb707603864a292c6d07ee97625ad99627de041b33a204008693fbc6ba0"
     },
     "meta": {
-      "correlation_id": "9a5b2a4bcdb84f74a1a5e0fd4f551e48",
+      "correlation_id": "fc9c0fa3d9af4892966efba1ac736acc",
       "source_status": "ok"
     }
   },
@@ -1182,7 +1182,7 @@
       "city_slug": "freiburg-im-breisgau",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:44.009676Z",
+      "retrieved_at": "2026-11-28T14:06:25.657897Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1201,10 +1201,10 @@
         "year": 2024
       },
       "content_hash": "449c4db50ef1e479a67d0a25416b09f2a5aeb3b5715c9658a5778df3668ea711",
-      "record_id": "381d25f8fc2cb4cc11b20fe16d697d48fa6742c5d2d45c45bdced9d3b7e80671"
+      "record_id": "e66f1ba5563497517af4f3cc4e9e99bdebb8ea65ec90acfe7c93fce81a8223dc"
     },
     "meta": {
-      "correlation_id": "cbac426be5914e559c219263dac97519",
+      "correlation_id": "3eebf257651d42c48033625095d4a3cb",
       "source_status": "ok"
     }
   },
@@ -1213,7 +1213,7 @@
       "city_slug": "fuerth",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:44.268137Z",
+      "retrieved_at": "2026-11-28T14:06:26.888307Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1232,10 +1232,10 @@
         "year": 2024
       },
       "content_hash": "f63831be7a1909e71f5bb53fd7417534673d57c0f08a233f2648a08c8e88c4c2",
-      "record_id": "6d7a202901fa4cd51784a7144f80de36102703b34b11250626eb73f4603ac414"
+      "record_id": "f6957d21898580b2fd17b2c620a9b84a5d47261e22c27229dea3f6c8cf074a88"
     },
     "meta": {
-      "correlation_id": "9e8375d2b80e4c47883f840382541ba9",
+      "correlation_id": "10d4f15bc4c54334a0f2162ce4ac01da",
       "source_status": "ok"
     }
   },
@@ -1244,7 +1244,7 @@
       "city_slug": "gelsenkirchen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:44.538824Z",
+      "retrieved_at": "2026-11-28T14:06:27.188455Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1263,10 +1263,10 @@
         "year": 2024
       },
       "content_hash": "565d33f3142bdc4df74e17c1402c3534f6bebc41471768d2a9801e2acadff104",
-      "record_id": "42b5fe82330c2f7bc47c52f917dc96be46204ff74f2631a69bfbb7b5ccc8ee91"
+      "record_id": "78b64ef8b382ccfb651fd5151e5a8c8f8d35207f2da1ce39785bb97a21cda37c"
     },
     "meta": {
-      "correlation_id": "a64096d168aa4f8abb767f61308bcd11",
+      "correlation_id": "d6058e4070f5464d80920ba034ff2f6b",
       "source_status": "ok"
     }
   },
@@ -1275,7 +1275,7 @@
       "city_slug": "goettingen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:44.744501Z",
+      "retrieved_at": "2026-11-28T14:06:27.407641Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1294,10 +1294,10 @@
         "year": 2024
       },
       "content_hash": "45c2b7bee61e5782721de4d7c0259e7667b9f621af3c52279e6465123c02daa8",
-      "record_id": "d6f050b27123b307e23f1daa993faa7bebffa39c78f6fd137f06a2da8190effa"
+      "record_id": "817c8e7701c1761062ffd0cbc47af1b9b86206c4e8d7bc5173b47e0db3b35a74"
     },
     "meta": {
-      "correlation_id": "8cb14e8242a44a589f50e531a49799b2",
+      "correlation_id": "f57de2814f0b4faa8e265b802b1570ba",
       "source_status": "ok"
     }
   },
@@ -1306,7 +1306,7 @@
       "city_slug": "guetersloh",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:44.958487Z",
+      "retrieved_at": "2026-11-28T14:06:27.814381Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1325,10 +1325,10 @@
         "year": 2024
       },
       "content_hash": "f44a61171ee0d6cbad6885d8c46f5a8c6318b149abb5250ad3a7b790676548dc",
-      "record_id": "6a1dba89e23ae8f1df5c8231bbccbf0c537a789c73a067912bc3268325bc9d7f"
+      "record_id": "b17a12ffaaf4e9fd94f69b66b1aa3e4ba898f7f840e4a112df8ea0d303edbab8"
     },
     "meta": {
-      "correlation_id": "4065664022e9434a84a8ab5caf85e68a",
+      "correlation_id": "a4af89bce4a940bca7747742c3570e4b",
       "source_status": "ok"
     }
   },
@@ -1337,7 +1337,7 @@
       "city_slug": "hagen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:45.216731Z",
+      "retrieved_at": "2026-11-28T14:06:28.219981Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1356,10 +1356,10 @@
         "year": 2024
       },
       "content_hash": "fabecf5b6964c211e0aa7e321e4281f0f03bfd174ae0f18842622f8fcc5680a4",
-      "record_id": "42a0fe628382c8883f2117ccfeb4714dddb7c5ddfee638ddf0f5ad6335078d75"
+      "record_id": "748ec4d5d48985e952cee76ca1066030789850d4ca8c7053cd01f5ce720f07b2"
     },
     "meta": {
-      "correlation_id": "69d86c3396cf498e9d613e0288806df0",
+      "correlation_id": "6010ccd0d6124d7ba9ca9649dd6fc35a",
       "source_status": "ok"
     }
   },
@@ -1368,7 +1368,7 @@
       "city_slug": "halle-saale",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:45.508018Z",
+      "retrieved_at": "2026-11-28T14:06:28.632004Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1387,10 +1387,10 @@
         "year": 2024
       },
       "content_hash": "7a74a7bfff276dc1cb41d1c9bbbd7cb59bf0440e12144f58eade0afb7ca6f5b2",
-      "record_id": "1ec2a8ead21a4198749f77d34e7f42096fcbf903eb90d717628a1fd9d7ac68fa"
+      "record_id": "1804b2d0b81d431a043a104d3a3e5d1ff29c22e8956c37e57238252536a8c653"
     },
     "meta": {
-      "correlation_id": "32bd8355228e440581c09421703c686d",
+      "correlation_id": "4e1507c784cf47ae8d01ca06f4c70dbf",
       "source_status": "ok"
     }
   },
@@ -1399,7 +1399,7 @@
       "city_slug": "hamm",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:45.796747Z",
+      "retrieved_at": "2026-11-28T14:06:31.676704Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1418,10 +1418,10 @@
         "year": 2024
       },
       "content_hash": "1c5452bfd26210135114b3465ff4f8496c4edb68bd8d8e664312b6d3dfe5defc",
-      "record_id": "910a9d4f3df5e8e7f70aa77ba9428b94368a10ed4bc03007fca0a4bcbe9bc0a6"
+      "record_id": "9cb315f85edc510af88fac0c683da48c6be9b8a645bda3683ae13ec8c16390e2"
     },
     "meta": {
-      "correlation_id": "ba9f0bbf0378492ead200eda4b1af2e4",
+      "correlation_id": "ede84690d712482e842c7a9871d55a57",
       "source_status": "ok"
     }
   },
@@ -1430,7 +1430,7 @@
       "city_slug": "hanau",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:45.975946Z",
+      "retrieved_at": "2026-11-28T14:06:32.034499Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1449,10 +1449,10 @@
         "year": 2024
       },
       "content_hash": "8be118a6e16ace3fa2aa48677668f46a752dab2f735e4f47a0d04e9d9872e57f",
-      "record_id": "c43b7fe9e01f97581ec73d721279c91de72e2468a094cca01a16bb29c2fc7b0c"
+      "record_id": "5d240d3445dbee53cee7e6713f4fdef537205bb628dd3dcea9d151a2ae97602b"
     },
     "meta": {
-      "correlation_id": "5ac8d77350a1470bb8eb206996cc36f8",
+      "correlation_id": "f733d7e97840457691569f2e7df08d33",
       "source_status": "ok"
     }
   },
@@ -1461,7 +1461,7 @@
       "city_slug": "heidelberg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:46.198662Z",
+      "retrieved_at": "2026-11-28T14:06:32.389188Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1480,10 +1480,10 @@
         "year": 2024
       },
       "content_hash": "9edf0b3c665138dcdd89976071e89aa481f8eef4e13ca99fc1805bed0157bf9b",
-      "record_id": "8ffe77c1675990c1ce980e3a8319d03949eafb1ea8f4d032637071a918e801df"
+      "record_id": "4d0bd8de0239eaebed8e19122d6feb49bc02d49962e5b4ea84c2476d0db371a9"
     },
     "meta": {
-      "correlation_id": "5f4264374ead4fb8b6f29ba8e41176d2",
+      "correlation_id": "075cd6b90f934f08adffec262f60d890",
       "source_status": "ok"
     }
   },
@@ -1492,7 +1492,7 @@
       "city_slug": "heilbronn",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:46.366452Z",
+      "retrieved_at": "2026-11-28T14:06:32.908950Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1511,10 +1511,10 @@
         "year": 2024
       },
       "content_hash": "13e8db2b663a891ec8f9122e5d536285becad63c147299a944be135d9d6f4cef",
-      "record_id": "f96025e8772ab35613348fa714f5c082eff371654d6edc82f0e74d4c9dd4c5f5"
+      "record_id": "745cb69757bca20eb1824f1f2d9bd455d6b87e5b7e7ba452030af4685cdd1d6e"
     },
     "meta": {
-      "correlation_id": "a761ed66da2c47dbb974d7bc1e8d4420",
+      "correlation_id": "c4747a0ecc7b4ad5a6f74cc2b9780274",
       "source_status": "ok"
     }
   },
@@ -1523,7 +1523,7 @@
       "city_slug": "herne",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:46.583551Z",
+      "retrieved_at": "2026-11-28T14:06:33.431431Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1542,10 +1542,10 @@
         "year": 2024
       },
       "content_hash": "f53a95e5d29963259f6023a74454d2c4c3ae71a5afff6f82949985f8276bd50d",
-      "record_id": "2940a5fb52f55ff6fb187802080c319464ce7c6d4ba80d8b92fe885c1be30a6f"
+      "record_id": "173f879b240b762a2e40614a91941e8ea67cc9526d944e9610dfb4c463f9f495"
     },
     "meta": {
-      "correlation_id": "ed11111979924bd2930d923101b2b730",
+      "correlation_id": "486c6fedfa664aafbe2a751c73e45229",
       "source_status": "ok"
     }
   },
@@ -1554,7 +1554,7 @@
       "city_slug": "hildesheim",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:46.773744Z",
+      "retrieved_at": "2026-11-28T14:06:33.642287Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1573,10 +1573,10 @@
         "year": 2024
       },
       "content_hash": "8ecde1fe3231a347792f849c68aac77645f1374ef89cc753d0f899dfd1cd6378",
-      "record_id": "0ac915b76469ae1459cf30463053cee6cb1dccb8c373b29ad48e70068cf23fea"
+      "record_id": "5633cbe2e22d0cd0c68d5051478d3bcb1eda5a9c7b9323d65c45abdeaa36483d"
     },
     "meta": {
-      "correlation_id": "f0e343f29a394f7e9d75889de7805553",
+      "correlation_id": "5ea79a4952fb42e2b12377436fbd1db5",
       "source_status": "ok"
     }
   },
@@ -1585,7 +1585,7 @@
       "city_slug": "ingolstadt",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:47.037847Z",
+      "retrieved_at": "2026-11-28T14:06:33.970945Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1604,10 +1604,10 @@
         "year": 2024
       },
       "content_hash": "6d33e637e897def5271ad38af3acfa96299c327568a151358d94ab2d629f8f4b",
-      "record_id": "d3787947c9bb388c551c6ee13613b91d54d0410491b6c032a483a046ffdcee80"
+      "record_id": "92186dadeb99e5fa36f1aa1fb93f8f4a885457a9c718c05b1887dbb409916ea9"
     },
     "meta": {
-      "correlation_id": "21e747d666e24436b6d18f9783a98dd5",
+      "correlation_id": "ba61320751d346d69d8810ab2a18200d",
       "source_status": "ok"
     }
   },
@@ -1616,7 +1616,7 @@
       "city_slug": "jena",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:47.315450Z",
+      "retrieved_at": "2026-11-28T14:06:34.385961Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1635,10 +1635,10 @@
         "year": 2024
       },
       "content_hash": "49d00eda736fda0ccba01837fa23da2d7ef42956244aed46b2f060a619a7e2d3",
-      "record_id": "08b9d2c17bd13470adf2a8cfcf0b458d63668b8a72e1d5e914abfe3905c7a4da"
+      "record_id": "bba7ef85ba1335e38fd5a81c22b8dcc9028213c006235702ac153d54cef09f33"
     },
     "meta": {
-      "correlation_id": "09415fd6ad3a44a097d18064798199e0",
+      "correlation_id": "b3b1339ff5e642f79ef808033c22904d",
       "source_status": "ok"
     }
   },
@@ -1647,7 +1647,7 @@
       "city_slug": "kaiserslautern",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:47.543105Z",
+      "retrieved_at": "2026-11-28T14:06:34.783937Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1666,10 +1666,10 @@
         "year": 2024
       },
       "content_hash": "839a97370c70d613c94c472ba81ad46a9b413e844b5bfdc59ff847f28419662f",
-      "record_id": "8d4f2d9d8d070dadb6c65b24827561d3365a6423de7edae188314ba98c21584f"
+      "record_id": "6f012a3c10cccef8f60f99c39aba3aa70697deb49aacd8a69c39e4ba6788d528"
     },
     "meta": {
-      "correlation_id": "196a2bfeb72e40f5997c20c0a209dcdb",
+      "correlation_id": "ff8909f621bc4b5cb08ee03a2c3291ea",
       "source_status": "ok"
     }
   },
@@ -1678,7 +1678,7 @@
       "city_slug": "karlsruhe",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:47.776151Z",
+      "retrieved_at": "2026-11-28T14:06:35.384147Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1697,10 +1697,10 @@
         "year": 2024
       },
       "content_hash": "d3924d98f39a90b0dda593721d877f81588cb9b941add0283053040c182f85bd",
-      "record_id": "594f5adcbb7c95b7cf4bd3901b5a9a35193313e7f4ec5724ac89c288fef8008a"
+      "record_id": "de42035ccbc8d415e6c6ac70dd0fbc37b1e861ec2cb4a1f340052e84f3706f07"
     },
     "meta": {
-      "correlation_id": "d3f66466468d49f58ba7f9685bd25284",
+      "correlation_id": "4867323043b3475883e90be9375f6247",
       "source_status": "ok"
     }
   },
@@ -1709,7 +1709,7 @@
       "city_slug": "kassel",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:47.983606Z",
+      "retrieved_at": "2026-11-28T14:06:35.678699Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1728,10 +1728,10 @@
         "year": 2024
       },
       "content_hash": "5714f5c2a8b17bc3e923689978fd91adb4dd3135e0f7b9ea7c8f70774dc76671",
-      "record_id": "18e17ed0364f5a787dbaef931e8746807445f98ac833ee9e1bd306c9a4d101fa"
+      "record_id": "89d4bde9448f85c7ae49c5a4685ab9cf4b5073759002b0394f74303179bbc4f5"
     },
     "meta": {
-      "correlation_id": "03be7ca655594b06ad3b068d69f6a3af",
+      "correlation_id": "de4ee3ae99a940049068771e975636b2",
       "source_status": "ok"
     }
   },
@@ -1740,7 +1740,7 @@
       "city_slug": "koblenz",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:48.183031Z",
+      "retrieved_at": "2026-11-28T14:06:36.051098Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1759,10 +1759,10 @@
         "year": 2024
       },
       "content_hash": "b3a41eeaaad768b9abdc508141a3f8b44d290f78d494c0ea5b85a1b37c0de25b",
-      "record_id": "01e62ba48f0b6f6f3f756c1d170ff6931f60737e8fc63ddae12ac5d6c6df5869"
+      "record_id": "132a45fe8a39eadf26af3ecbbea58dfb3b7e6de54dcd76372d915baa7ea6352f"
     },
     "meta": {
-      "correlation_id": "64563171a3584371acfce567ad2aaa9e",
+      "correlation_id": "474aefed4ddf446f8a4279e164659e99",
       "source_status": "ok"
     }
   },
@@ -1771,7 +1771,7 @@
       "city_slug": "krefeld",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:48.451501Z",
+      "retrieved_at": "2026-11-28T14:06:36.804394Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1790,10 +1790,10 @@
         "year": 2024
       },
       "content_hash": "327cb2cb0fbf56e1b36601dd35b01474e77834b720a6316ba253a0234c6c7b57",
-      "record_id": "4a82f7d7da3aa03bb08a51b958c6589fcc45b7c683595ab57e78545889cdfd89"
+      "record_id": "8ba6d21cd8bba3a2d75031affb5a2ca4a044ad5f7316d98c477a03884c310ebc"
     },
     "meta": {
-      "correlation_id": "d6f4bc5a981e458e904dcb7f339d7b55",
+      "correlation_id": "a09db3bd794a4dcfa97a5e419eed6d92",
       "source_status": "ok"
     }
   },
@@ -1802,7 +1802,7 @@
       "city_slug": "leverkusen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:48.620043Z",
+      "retrieved_at": "2026-11-28T14:06:37.463491Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1821,10 +1821,10 @@
         "year": 2024
       },
       "content_hash": "56e1b30c96c60d0189fb0754d00ab69e0e44825344b1e0a10b64370bc96ece1b",
-      "record_id": "c459a4422f160ed4d9122fbf9a0449759fdeb93313935a5511f1e6b36648a5ab"
+      "record_id": "dde99ebb550f2d200b7cf85840606838481430d92a33bd5e1c15727d78bc7cee"
     },
     "meta": {
-      "correlation_id": "efe37d24f9b84a608e4e2f3373e9a876",
+      "correlation_id": "9a6617b1ede2409895bdd0ec6377fff2",
       "source_status": "ok"
     }
   },
@@ -1833,7 +1833,7 @@
       "city_slug": "ludwigshafen-am-rhein",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:49.041807Z",
+      "retrieved_at": "2026-11-28T14:06:37.954760Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1852,10 +1852,10 @@
         "year": 2024
       },
       "content_hash": "11457a9449638ea4fba20ef0e7a1ba26f02f8e1f92b8f1c382c18c2f8f8cd1aa",
-      "record_id": "e3284a9f357fa773f6c639f18fa9e1e77a4d0d132b4688874e4d43a9b4e57e71"
+      "record_id": "8af0c9fdf42c2ae717377bbb2f052e9460e73e2d2e5cc655d697a5269a3a55ed"
     },
     "meta": {
-      "correlation_id": "a2f6d63751af42898416a4e04c537ace",
+      "correlation_id": "5775238ebc2d410e9f4b08ac6cbba6e6",
       "source_status": "ok"
     }
   },
@@ -1864,7 +1864,7 @@
       "city_slug": "luebeck",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:49.261802Z",
+      "retrieved_at": "2026-11-28T14:06:38.933856Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1883,10 +1883,10 @@
         "year": 2024
       },
       "content_hash": "438379ec2d33436c4d8296d718776d74bd1c6000d232bb677df45910b5c554e2",
-      "record_id": "b95304cbe67f6ddc93d7fdd4021d30a10c2b56eb8b69f538c157d45817bf90ec"
+      "record_id": "415cce1de56b049aeb7e50d5170e1c71e2ec2dbcafeaff9729d22120456b436c"
     },
     "meta": {
-      "correlation_id": "5902a800737b4c5d9130047841eb7de2",
+      "correlation_id": "3f425b3f1ebd4568bd7acb01f0c67469",
       "source_status": "ok"
     }
   },
@@ -1895,7 +1895,7 @@
       "city_slug": "mannheim",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:49.454524Z",
+      "retrieved_at": "2026-11-28T14:06:40.033854Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1914,10 +1914,10 @@
         "year": 2024
       },
       "content_hash": "7aa3db7542e3dee2ff05eac0252819e3b4690b1c26d92f361759d2a12850decc",
-      "record_id": "3d5a373ead7c07efb4b4be36659c8eec04850cad912b44025971fd6b751f2c19"
+      "record_id": "7886cd9928a7bb8098ece2e2428b6272e3f1e84af9aa090820b4efe1dc48ba82"
     },
     "meta": {
-      "correlation_id": "b030d68e88a448ce95f29bc6b2f6ac89",
+      "correlation_id": "cfd8b993db2144dab1e76ecd69e31931",
       "source_status": "ok"
     }
   },
@@ -1926,7 +1926,7 @@
       "city_slug": "moenchengladbach",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:49.643632Z",
+      "retrieved_at": "2026-11-28T14:06:40.870834Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1945,10 +1945,10 @@
         "year": 2024
       },
       "content_hash": "692529bebaa5ba7d71390900b2d0b29aba2f58bc691b0dda6cdc47a482a47d57",
-      "record_id": "ec28660eb8e10eb9e662dc0a9bcd25d6987751fae7a0623c8e3ac7360f6c2a88"
+      "record_id": "ed25659c28d8de6a4d6f101cbbc8a2e86ee98bfbcaaf24551a6a0365feb260f0"
     },
     "meta": {
-      "correlation_id": "f317f37fb7fb4ad99c825fe9aa208d4a",
+      "correlation_id": "b67d31003f154602bcb5ab96c402cef9",
       "source_status": "ok"
     }
   },
@@ -1957,7 +1957,7 @@
       "city_slug": "moers",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:49.933123Z",
+      "retrieved_at": "2026-11-28T14:06:41.020472Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -1976,10 +1976,10 @@
         "year": 2024
       },
       "content_hash": "44f6d8c337c91811b5ad5484a067354988b69bd14b8f7ebf72003bc00a125d1d",
-      "record_id": "10cf2011ba5c943f96e5ddd678d9c909cd0d85ae67bc67071ef840af4c02f586"
+      "record_id": "cad2faecf521178fa9da43868e2bf6e8e057eb8be8f86255faa4e06f4d47264e"
     },
     "meta": {
-      "correlation_id": "ca145d9d3e2d4f84a43ff411f04c46de",
+      "correlation_id": "0e7b716f9e6b4aeba1434ccb11567093",
       "source_status": "ok"
     }
   },
@@ -1988,7 +1988,7 @@
       "city_slug": "muelheim-an-der-ruhr",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:50.149785Z",
+      "retrieved_at": "2026-11-28T14:06:41.868526Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2007,10 +2007,10 @@
         "year": 2024
       },
       "content_hash": "6e86a6c3df907871861c26d42c54504d3e4ed81a41723160f3eaf2ad83b4d517",
-      "record_id": "585944d3c0229c75d09959f0ca34abb88a7298bab5c9032af9ab7590ad1e3ce7"
+      "record_id": "538afc9a7b120f50feda273de5bab30a1b576b2783597f010a1c34176d11869d"
     },
     "meta": {
-      "correlation_id": "3776f2e59f3e4dd2a7f067ad3a99501d",
+      "correlation_id": "fcc9580a0267449a8e9672a229b59977",
       "source_status": "ok"
     }
   },
@@ -2019,7 +2019,7 @@
       "city_slug": "neuss",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:50.400840Z",
+      "retrieved_at": "2026-11-28T14:06:45.457039Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2038,10 +2038,10 @@
         "year": 2024
       },
       "content_hash": "04bb12310639a96daf8d65cfb67fdcaca63d19826a7a5830aa5baf6fd5d23389",
-      "record_id": "fe35e1ce2f78d8fa8ca20b2641f192f2cc85dd0d587ff1546a0acecef512b6af"
+      "record_id": "f88cc12a7ba04735250f5c1ebd80384d1e0e261899f96dd25e0eae9234995368"
     },
     "meta": {
-      "correlation_id": "4031c025f2704380936a64801a1a211f",
+      "correlation_id": "23f42c2bc77c4b62bb5bbd32cd44e90a",
       "source_status": "ok"
     }
   },
@@ -2050,7 +2050,7 @@
       "city_slug": "oberhausen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:50.588862Z",
+      "retrieved_at": "2026-11-28T14:06:45.900937Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2069,10 +2069,10 @@
         "year": 2024
       },
       "content_hash": "d9ea5e2b51274da0e04f97ef0fda8332555e8c01cad98b83a079c6d7d1177d42",
-      "record_id": "79c865290b7bdd390bf2f04c5ff2fc7afd7bc345ddfeb8e27fabc0cca34a27b7"
+      "record_id": "2e384722aafa1b3afd0b247c72f3a90157fbd6b9d56b81d0f2a3ff480940cb71"
     },
     "meta": {
-      "correlation_id": "c3cb7c8e52834a868aaa80dc855c3858",
+      "correlation_id": "13e4ce651c664bad98b7dca2e15cf2f4",
       "source_status": "ok"
     }
   },
@@ -2081,7 +2081,7 @@
       "city_slug": "offenbach-am-main",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:50.802251Z",
+      "retrieved_at": "2026-11-28T14:06:46.155593Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2100,10 +2100,10 @@
         "year": 2024
       },
       "content_hash": "b4d4631c163b06441718fff9361eb19ac78ff1ff6cc191d72fb73a7c0a9756e6",
-      "record_id": "c32225902f6cef4953238a8db161b80ad2d615f6ed85a0b48538fe7d6bd31b35"
+      "record_id": "18d7d6545db5cb781bb49b7549e748d8bc86e0425c44da7d6571dc6eae42e05c"
     },
     "meta": {
-      "correlation_id": "612d0fb6beef4e5cb915b912e955dd29",
+      "correlation_id": "fdd502fc1fa14ac191aa0ca24a044e3c",
       "source_status": "ok"
     }
   },
@@ -2112,7 +2112,7 @@
       "city_slug": "oldenburg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:51.011989Z",
+      "retrieved_at": "2026-11-28T14:06:46.439670Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2131,10 +2131,10 @@
         "year": 2024
       },
       "content_hash": "54cc836c1f711109272e36cd5fa8498dab7bf6a3995c2050a7b8c92e066e620b",
-      "record_id": "06a03289c5292d98f892549e109da0eb403b78fdaee8fa3d0e65e20a6516a449"
+      "record_id": "8b5591b34509f07741d8937351c2b6539855bd17da0bd844f71af8f9de1b7afa"
     },
     "meta": {
-      "correlation_id": "40b075a2d9c346309729f33fd4617b61",
+      "correlation_id": "ea1ff0134ca94c3b9cabc76ed3a6ea5c",
       "source_status": "ok"
     }
   },
@@ -2143,7 +2143,7 @@
       "city_slug": "osnabrueck",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:51.313321Z",
+      "retrieved_at": "2026-11-28T14:06:46.652692Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2162,10 +2162,10 @@
         "year": 2024
       },
       "content_hash": "b5027020a3015ab1cc57f24518448f5214812f5aec15305a955464799b33e551",
-      "record_id": "460f70ea9ef23c81da1ceff117876bf6e69dcc53b02dd7c69da2a987ba03e666"
+      "record_id": "dd7de87d0c26128522bf85fade703bdcd48776d42ee696e4e7d06d8680441468"
     },
     "meta": {
-      "correlation_id": "b2079d3c63fc4e1ca5b092fcb8e6dd8b",
+      "correlation_id": "e7591eb375104e4c86c110a92b45ac9d",
       "source_status": "ok"
     }
   },
@@ -2174,7 +2174,7 @@
       "city_slug": "paderborn",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:51.717430Z",
+      "retrieved_at": "2026-11-28T14:06:47.238194Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2193,10 +2193,10 @@
         "year": 2024
       },
       "content_hash": "abe56f284b34c761b5eafa2f31cb0e1f2fd058c1e148f33cee8ffbf5a58636d2",
-      "record_id": "5d6f0b1a50b22c42a718053b465a963f3f899c9a5ec0c7fee99f820d21dfc98e"
+      "record_id": "be6afca80aa1bfd6d9f7358ab1c794846efce68542dad564f89493a669bf12cf"
     },
     "meta": {
-      "correlation_id": "a94816f195ca4bfa830d92f6eb66c6c8",
+      "correlation_id": "f8b9a2a2ef88460ca59bb3022cf31fce",
       "source_status": "ok"
     }
   },
@@ -2205,7 +2205,7 @@
       "city_slug": "pforzheim",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:52.046912Z",
+      "retrieved_at": "2026-11-28T14:06:47.930303Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2224,10 +2224,10 @@
         "year": 2024
       },
       "content_hash": "d8b7d40ff640cd8d118a9f66792fb27653314139c2dacfb997d6b74052a1bd1f",
-      "record_id": "bf653ce99996bf9822e6e561a54a2c01d664642f2df25361300b40cc6a44f949"
+      "record_id": "5871d55fe782c61e43b19ad454325aae5860480139360aef54d78000d8a66a1e"
     },
     "meta": {
-      "correlation_id": "0ba6dd3f5f064ddd862d48cc65a563eb",
+      "correlation_id": "8c8dc0fbd0794de79d058d19d366a126",
       "source_status": "ok"
     }
   },
@@ -2236,7 +2236,7 @@
       "city_slug": "recklinghausen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:52.562532Z",
+      "retrieved_at": "2026-11-28T14:06:48.402168Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2255,10 +2255,10 @@
         "year": 2024
       },
       "content_hash": "daa8b3390211e931c606c991b5dab1fa34fd672769bdcf74f1e54cf8131b6458",
-      "record_id": "80874ca6dde21cebf84f060d7dcaa49a074314dda4632f2e157e6be4a35b9724"
+      "record_id": "8d357a99521f35aa7dc7cc2cec1265ecd6e937b8a3afd8c26151da06ad11a0d5"
     },
     "meta": {
-      "correlation_id": "12315e46d43d41c2ae995727d8ace397",
+      "correlation_id": "73492d1502e64696ae08c4d40a30f31d",
       "source_status": "ok"
     }
   },
@@ -2267,7 +2267,7 @@
       "city_slug": "regensburg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:52.845489Z",
+      "retrieved_at": "2026-11-28T14:06:49.088950Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2286,10 +2286,10 @@
         "year": 2024
       },
       "content_hash": "150570d86daa00f18dd58db7cbc246d3f2df79a1322de58deb1a4fbb83847fc7",
-      "record_id": "c08a01d8744a235c37ce3f3332f4d77d88ebead084c36734f770cd699ec18de0"
+      "record_id": "35e981ec2db5605835e09098688dfe31e7fa893876a0ace9786eb6a2793d3c8f"
     },
     "meta": {
-      "correlation_id": "c2a5c34b7d154dffbeb4f6c50405d63e",
+      "correlation_id": "55f817853783469eb0ae2a2d5bace011",
       "source_status": "ok"
     }
   },
@@ -2298,7 +2298,7 @@
       "city_slug": "remscheid",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:53.163860Z",
+      "retrieved_at": "2026-11-28T14:06:50.051177Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2317,10 +2317,10 @@
         "year": 2024
       },
       "content_hash": "85eccc9b8cbeeb8c3766d45a3bc1245a1651473b813df642289fb0f3d566e5a4",
-      "record_id": "8e7d3b69a14e36ef0c30a31770f4a6855c6a407762ebe61d235611e04bdf9ff8"
+      "record_id": "7bed82aa2da90a8355947f82aed172b2755b88c0a740523d023e4776564f91b4"
     },
     "meta": {
-      "correlation_id": "9663bf177f164b7ebcede1f273c78b67",
+      "correlation_id": "71b010010e2b4361bd57684f86208556",
       "source_status": "ok"
     }
   },
@@ -2329,7 +2329,7 @@
       "city_slug": "reutlingen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:53.487152Z",
+      "retrieved_at": "2026-11-28T14:06:50.869662Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2348,10 +2348,10 @@
         "year": 2024
       },
       "content_hash": "6652a248f6dea12ec3d40d1c363d9b7455499f92bb00bf7e51b5d280286aff88",
-      "record_id": "d3f76ffa813e540c6c698ffcae2689a47422d1ef6f6ec9c8606e6675d92b05bd"
+      "record_id": "0b2f6a98a980db4549dad6a1c140be7fa855e9d9e17a191e15d1ea523da3d5be"
     },
     "meta": {
-      "correlation_id": "e1ee33c31ca24c078212e23c54b98f68",
+      "correlation_id": "f1a8108c5ab641dbb80e0484908a1d4f",
       "source_status": "ok"
     }
   },
@@ -2360,7 +2360,7 @@
       "city_slug": "rostock",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:53.742581Z",
+      "retrieved_at": "2026-11-28T14:06:54.071577Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2379,10 +2379,10 @@
         "year": 2024
       },
       "content_hash": "1818b7e1b2ad6bb035c5a16dd9e39c616838108a62c534dc66d64f8a0ace680a",
-      "record_id": "e83efde5f6ac8a2863056152d0cd264fc9de7683ddc51b4d8d97fdff9de72744"
+      "record_id": "b23f4172e5e60473fcd3b7809bac1472acc3ab91d16b36f5577525bacb973c05"
     },
     "meta": {
-      "correlation_id": "2ac593563ba64e04b4767a567c4c1c78",
+      "correlation_id": "10d630bbfea64e94bc376fe31b7a673b",
       "source_status": "ok"
     }
   },
@@ -2391,7 +2391,7 @@
       "city_slug": "salzgitter",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:54.095004Z",
+      "retrieved_at": "2026-11-28T14:06:55.276616Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2410,10 +2410,10 @@
         "year": 2024
       },
       "content_hash": "b840ed2cc0200f1536ba9c802394f857c650286b62ca2654f0e14e689d304be7",
-      "record_id": "67000626f72ab7f6a01463d015fc6ef74d23218e9187ba30c0282db50a697900"
+      "record_id": "45b17c353a10b56667c20b9e6114712a7ba3b880c0932177db1338c468341554"
     },
     "meta": {
-      "correlation_id": "e435aac831db4bb29ab534202942818b",
+      "correlation_id": "e159d8caff8945388c476f02e11215aa",
       "source_status": "ok"
     }
   },
@@ -2422,7 +2422,7 @@
       "city_slug": "siegen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:54.362296Z",
+      "retrieved_at": "2026-11-28T14:06:55.725936Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2441,10 +2441,10 @@
         "year": 2024
       },
       "content_hash": "686c480e5908515c986bc887e4f47b40b53b97945aa3cf097226dd5e4a808252",
-      "record_id": "37e705e68e9173a8409f08415900354ba12b4d1e08851b34e85e8f090108a3b3"
+      "record_id": "8ebb170c5f8cad2043fefaf7cadb4e3a8d7681bc59539251388c6f36c9615d24"
     },
     "meta": {
-      "correlation_id": "170eb836892c4b66b30c02e3c88618f0",
+      "correlation_id": "aff90bd2e88049f0bbd84dcd08368699",
       "source_status": "ok"
     }
   },
@@ -2453,7 +2453,7 @@
       "city_slug": "solingen",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:54.599964Z",
+      "retrieved_at": "2026-11-28T14:06:57.171699Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2472,10 +2472,10 @@
         "year": 2024
       },
       "content_hash": "001ad08bd0255b037a837dc395a3f7a9795cdc2aaf3a79d3218bd5fbdb373c6c",
-      "record_id": "2fdad4ad5168d9bd94e52b8fb5112b82bfeb1ed8e90f76c7c34279c1ce969365"
+      "record_id": "3c23d6d4f90fc119b228ae80dc49effcc32254e1666b72c752fb0062ddd1b449"
     },
     "meta": {
-      "correlation_id": "bca84704dc3a4d76a09ea14f0bc5735e",
+      "correlation_id": "688ea86f804742f5b83ca891ee835d10",
       "source_status": "ok"
     }
   },
@@ -2484,7 +2484,7 @@
       "city_slug": "trier",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:54.771432Z",
+      "retrieved_at": "2026-11-28T14:06:57.416445Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2503,10 +2503,10 @@
         "year": 2024
       },
       "content_hash": "c415c8d797414f4c428f5a9fe53c0372d54c6460f3ae254d4ead9cd7f959d743",
-      "record_id": "59d8ca76eec6e6d039aa105148101ef8c343582b609422723eaa53bd8f5cb491"
+      "record_id": "dd643c5e06cd287a6ac32cdc5694a7354096b731402a3a4dd771c24a8577ca84"
     },
     "meta": {
-      "correlation_id": "0995dd1d02774fac950acc443b554c87",
+      "correlation_id": "7c1158f967c5457eb4f07e40065bb17e",
       "source_status": "ok"
     }
   },
@@ -2515,7 +2515,7 @@
       "city_slug": "ulm",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:54.982255Z",
+      "retrieved_at": "2026-11-28T14:06:57.920864Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2534,10 +2534,10 @@
         "year": 2024
       },
       "content_hash": "fa40767bfab02c87b720a2691a2ed55ffe657fbc8fff9aa51f17d4f635a6f04f",
-      "record_id": "f2c9be3dfeae437e251406ff13e3037575ee582d18b5e611a618e6c5d6e987f5"
+      "record_id": "771ea1aa1c68bf984492068a4312b9f62392b9c06fd81c606870011977831c32"
     },
     "meta": {
-      "correlation_id": "b4da9411edbe4d578357cc49132a2110",
+      "correlation_id": "e2fa497926424e058a7f94c27a83d883",
       "source_status": "ok"
     }
   },
@@ -2546,7 +2546,7 @@
       "city_slug": "wolfsburg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:55.178215Z",
+      "retrieved_at": "2026-11-28T14:06:58.437192Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2565,10 +2565,10 @@
         "year": 2024
       },
       "content_hash": "a6e5b93bd5b2a9f21747d5d8363c9b5a32e565efbf8f3a18c1f1805b15f00d7d",
-      "record_id": "82816f65e43a906066781f8aa8a3c4fd8d7fa686f9373c236d5881e2a1749030"
+      "record_id": "951bbef76834a115ee5ed236bc10e08d422fb618c54ccbbe59428c2c970ded3e"
     },
     "meta": {
-      "correlation_id": "b7a31bc409f247d28f0d611597eeb36e",
+      "correlation_id": "fa9cfcaa05fd4208b29f270911ed6900",
       "source_status": "ok"
     }
   },
@@ -2577,7 +2577,7 @@
       "city_slug": "wuerzburg",
       "geo": null,
       "observed_at": null,
-      "retrieved_at": "2026-11-23T14:06:55.408668Z",
+      "retrieved_at": "2026-11-28T14:06:58.623820Z",
       "source": "regionalstatistik",
       "license_id": "dl_de_by_2_0",
       "license_tier": "A",
@@ -2596,10 +2596,10 @@
         "year": 2024
       },
       "content_hash": "05b706327d5a5ea13c0daa6b699635657edfccc0a64483c76ec5e74b245eac81",
-      "record_id": "c955dcde87476fdfb33ab940ca2090e28cf75535b5a521d692d4f3b2cf341ec0"
+      "record_id": "9e82fc37656b0b8bbf238998b1781299be8b7a9dbba56d22816cf47efdb7e422"
     },
     "meta": {
-      "correlation_id": "40fccdac0e7d41e4b011bd572b0d156e",
+      "correlation_id": "b9b33cfabfb744b2b92b39266a8c7579",
       "source_status": "ok"
     }
   }
